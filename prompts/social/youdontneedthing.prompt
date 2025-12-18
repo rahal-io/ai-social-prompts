@@ -1,0 +1,20 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      thisthing: string
+      otherthing1: string
+      otherthing2: string
+      otherthing3: string
+      statementaboutwhy: string
+      conclusionstatement: string
+output:
+  format: text
+---
+You don't need {{thisthing}}
+Go find:
+{{otherthing1}}
+{{otherthing2}}
+{{otherthing3}}
+{{statementaboutwhy}}
+{{conclusionstatement}}

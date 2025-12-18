@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      example_1: string
+      example_2: string
+      example_3: string
+      example_4: string
+output:
+  format: text
+---
+The best examples of {{topic}} I’ve ever seen: {{example_1}} {{example_2}} {{example_3}} {{example_4}} What others would you add?

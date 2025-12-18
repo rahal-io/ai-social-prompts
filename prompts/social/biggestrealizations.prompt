@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      realization_1: string
+      realization_2: string
+      realization_3: string
+output:
+  format: text
+---
+Biggest realizations I’ve had on {{topic}}: {{realization_1}} {{realization_2}} {{realization_3}}

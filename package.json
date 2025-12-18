@@ -1,0 +1,19 @@
+{
+    "name": "cos-templates",
+    "version": "1.0.0",
+    "description": "Prompt templates for Google AI using Genkit",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "transform": "node transform.js",
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "genkit": "^1.0.0",
+        "@genkit-ai/googleai": "^1.0.0",
+        "csv-parse": "^5.5.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.0.0"
+    }
+}

@@ -1,0 +1,20 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      complex_topic: string
+output:
+  format: text
+---
+Your task is to distill and communicate the essence of {{complex_topic}} in a clear and accessible manner.
+#Instructions###
+Break Down the Topic: Start by identifying the core components of {{complex_topic}}. List these components briefly.
+Define Key Terms: Define any technical terms or jargon related to {{complex_topic}}. Use simple definitions to make the terms accessible to non-experts.
+Use Analogies: Explain complex aspects of {{complex_topic}} using analogies. Choose analogies that relate to common experiences or well-known concepts to make the idea easier to grasp.
+Step-by-Step Explanation: Lay out the workings or implications of {{complex_topic}} in a logical, step-by-step manner. Focus on one aspect at a time to avoid overwhelming the reader.
+Highlight Relevance: Explain why understanding {{complex_topic}} is important. Connect it to broader themes, real-world applications, or its impact on specific fields or everyday life.
+Summary: Conclude by summarizing the main points in a clear and concise manner. Recap the simplified explanation and emphasize the key takeaways.
+#Expected Response Format###
+Organized and Logical: Present information in a well-structured format, progressing logically from basic concepts to more detailed explanations.
+Clear and Concise Language: Use clear, straightforward language, avoiding unnecessary complexity.
+Engaging and Educational: Aim to engage and educate, sparking interest in {{complex_topic}} while ensuring the reader understands its fundamental aspects.

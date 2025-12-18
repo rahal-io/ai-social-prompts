@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      contenttopic: string
+      benefit_1_eg_never_run_out_of_ideas: string
+      benefit_2: string
+      benefit_3: string
+      link: string
+output:
+  format: text
+---
+{{contenttopic}} is a simpler way to: - {{benefit_1_eg_never_run_out_of_ideas}} - {{benefit_2}} - {{benefit_3}}. Learn more 👇. {{link}}

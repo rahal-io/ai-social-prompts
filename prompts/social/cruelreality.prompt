@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      obstacle: string
+      skill_idea: string
+output:
+  format: text
+---
+The cruel reality of {{obstacle}} is that it's on purpose for many. They'll never break out of the self-limiting mindset and belief. Tell this person to learn {{skill_idea}}, and they’ll tell you why it never works.

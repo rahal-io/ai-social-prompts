@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      desired_outcome: string
+      timeframe: string
+      obstacle: string
+      link: string
+output:
+  format: text
+---
+How I {{desired_outcome}} in just {{timeframe}} without {{obstacle}}. If this sounds interesting, read this week's newsletter. {{link}}

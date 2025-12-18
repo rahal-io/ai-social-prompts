@@ -1,0 +1,14 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic_people: string
+      wrong_action: string
+      right_action: string
+      step_1: string
+      step_2: string
+      step_3: string
+output:
+  format: text
+---
+    Most {{topic_people}} focus on {{wrong_action}}. This gets them nowhere. Instead, the trick is to focus 100% of your attention on {{right_action}}: {{step_1}} {{step_2}} {{step_3}}.

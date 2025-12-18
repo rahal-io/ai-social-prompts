@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic1: string
+      topic2: string
+output:
+  format: text
+---
+Comparison: {{topic1}} vs. {{topic2}}.

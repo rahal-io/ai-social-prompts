@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      result_you_can_promise: string
+      link: string
+output:
+  format: text
+---
+I've/We’ve tried to {{result_you_can_promise}} without any kind of success. Until I/we found a way to make it work. Here's how to get faster results: {{link}}

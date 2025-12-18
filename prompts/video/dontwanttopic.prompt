@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      controversial_action: string
+output:
+  format: text
+---
+Don’t want to {{controversial_action}}?

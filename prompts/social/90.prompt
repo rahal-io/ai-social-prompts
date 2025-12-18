@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      outcome: string
+      simple_habit_1: string
+      simple_habit_2: string
+      simple_habit_3: string
+output:
+  format: text
+---
+    90% of {{outcome}} is really just: {{simple_habit_1}}. {{simple_habit_2}}. {{simple_habit_3}}. The little stuff that makes all the difference.

@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a Curated Post. Follow this template systematically: 1. Choose a theme or topic that aligns with your audience's interests. 2. Gather content from various sources. 3. Organize the content into thematic sections. 4. Provide your commentary or insight on each piece. 5. Credit all sources appropriately. 6. Conclude with an overview of the curated content and its relevance to the reader.

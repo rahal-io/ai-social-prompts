@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic_announcement_weird_thing_not_well_known_thing: string
+output:
+  format: text
+---
+I bet you didn't know {{topic_announcement_weird_thing_not_well_known_thing}}

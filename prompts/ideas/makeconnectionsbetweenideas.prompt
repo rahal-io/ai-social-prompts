@@ -1,0 +1,22 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      idea_1: string
+      idea_2: string
+output:
+  format: text
+---
+Your task is to discover and explain how {{idea_1}} and {{idea_2}}, seemingly unrelated, are interconnected or can influence each other.
+#Instruction###
+Define Each Idea: Start by defining both {{idea_1}} and {{idea_2}} separately. Provide a brief overview of each idea to ensure clarity and understanding before discussing their connection.
+Identify Common Grounds: List any common elements, themes, or underlying principles that {{idea_1}} and {{idea_2}} share. This might include similar goals, methods, problems they address, or contexts in which they are applied.
+Explore Direct Connections: Analyze any direct interactions or influences these ideas might have on each other. Consider how one idea might enhance, complement, or challenge the other.
+Theoretical Integration: Discuss theoretical perspectives or frameworks that could integrate {{idea_1}} and {{idea_2}}. This might involve merging concepts from each idea to form a new approach or understanding.
+Practical Implications: Examine any practical outcomes of combining these ideas. What new solutions, products, or improvements might emerge? How could this combination benefit specific industries, fields, or societal issues?
+Historical or Future Perspectives: Reflect on any historical context where these ideas may have intersected, or speculate on future trends that might bring them together.
+Personal Insight or Hypotheses: Offer your personal insight or hypotheses about why these ideas are connected and what this means for future developments or applications.
+#Expected Response Format###
+Analytical and Insightful: The response should delve deeply into both ideas, exploring their relationship with sophistication and depth.
+Structured and Clear: Organize the explanation logically, ensuring that the connections made are easy to follow and understand.
+Evidence-Supported: Where possible, support your connections with evidence or examples that illustrate the interplay between {{idea_1}} and {{idea_2}}.

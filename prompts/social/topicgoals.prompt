@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      goal_1: string
+      goal_2: string
+      goal_3: string
+      goal_4: string
+output:
+  format: text
+---
+{{topic}} goals you should strive for: {{goal_1}} {{goal_2}} {{goal_3}} {{goal_4}} Achieving these puts you in the top 1%.

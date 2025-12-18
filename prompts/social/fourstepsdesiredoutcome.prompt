@@ -1,0 +1,19 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      desired_outcome: string
+      step1: string
+      step2: string
+      step3: string
+      step4: string
+      link: string
+output:
+  format: text
+---
+The 4 steps to {{desired_outcome}}. 
+- {{step1}}
+- {{step2}}
+- {{step3}}
+- {{step4}}
+Now learn how to follow these steps 👇. {{link}}

@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      something_about_my_take_on_the_topic: string
+output:
+  format: text
+---
+Somebody called me stupid {{something_about_my_take_on_the_topic}}.

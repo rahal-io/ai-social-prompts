@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      habit_1: string
+      habit_2: string
+      habit_3: string
+      habit_4: string
+output:
+  format: text
+---
+X habits the best {{topic}} live by: {{habit_1}} {{habit_2}} {{habit_3}} {{habit_4}} Greatness is a daily choice.

@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      valuable_topic_thing: string
+output:
+  format: text
+---
+This feels illegal to know {{valuable_topic_thing}}.

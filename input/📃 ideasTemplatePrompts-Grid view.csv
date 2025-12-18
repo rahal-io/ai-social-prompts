@@ -1,0 +1,332 @@
+﻿ideasTemplateName,ideasPromptTemplate,packagedPromptTemplateIdeas
+askAnExpert,"You're an expert on this topic. I want you to dive deep into it. 
+Objective: To gain a comprehensive and detailed understanding of [Topic].
+###Instruction###
+Explain the Fundamentals: Begin by outlining the basic concepts of [Topic]. Ensure you cover all foundational elements necessary for a newcomer to understand the subject.
+Discuss Advanced Aspects: Move on to more complex and advanced details. Explain the intricacies and nuances that are often overlooked or not widely known.
+Provide Practical Examples: Illustrate your explanations with real-world examples or scenarios. This helps in visualizing concepts and understanding their applications.
+Address Common Misconceptions: Identify any common misunderstandings or myths associated with [Topic] and clarify them.
+Latest Developments: Share the latest research or developments in the field. Highlight how these advancements are shaping the future of [Topic].
+Expert Insights: Offer your personal insights or tips that can only come from someone with your level of expertise.
+###Expected Response Format###
+Comprehensive: Your response should cover all the aspects mentioned, providing a thorough understanding of the topic.
+Educational Tone: Aim to educate, assuming the reader has basic preliminary knowledge of the subject.
+Well-Structured: Organize your response into clear, logical sections as outlined in the instructions.","##You're an expert on this topic. I want you to dive deep into it. 
+Objective: To gain a comprehensive and detailed understanding of [Topic].
+###Instruction###
+Explain the Fundamentals: Begin by outlining the basic concepts of [Topic]. Ensure you cover all foundational elements necessary for a newcomer to understand the subject.
+Discuss Advanced Aspects: Move on to more complex and advanced details. Explain the intricacies and nuances that are often overlooked or not widely known.
+Provide Practical Examples: Illustrate your explanations with real-world examples or scenarios. This helps in visualizing concepts and understanding their applications.
+Address Common Misconceptions: Identify any common misunderstandings or myths associated with [Topic] and clarify them.
+Latest Developments: Share the latest research or developments in the field. Highlight how these advancements are shaping the future of [Topic].
+Expert Insights: Offer your personal insights or tips that can only come from someone with your level of expertise.
+###Expected Response Format###
+Comprehensive: Your response should cover all the aspects mentioned, providing a thorough understanding of the topic.
+Educational Tone: Aim to educate, assuming the reader has basic preliminary knowledge of the subject.
+Well-Structured: Organize your response into clear, logical sections as outlined in the instructions.
+
+"
+simpleExplainer,"Your task is to provide a clear and straightforward explanation of the topic you referenced above, that is easy to understand.
+###Instruction###
+Define the Topic: Start by defining [Topic] in one or two sentences. Use simple language and avoid technical jargon.
+Key Components: Break down the topic into 2-3 key components or concepts that are essential for understanding the whole.
+Significance: Explain why [Topic] is important. Mention its relevance in daily life, its impact on related fields, or its value in a specific context.
+Common Misunderstandings: Address any common misconceptions or errors that people might have about [Topic].
+###Expected Response Format###
+Concise: Keep the explanation brief but comprehensive.
+Accessible Language: Use language that can be easily understood by someone with no prior knowledge of the topic.
+Engaging: Make the explanation engaging by relating it to real-life applications or interesting facts.","##Your task is to provide a clear and straightforward explanation of the topic you referenced above, that is easy to understand.
+###Instruction###
+Define the Topic: Start by defining [Topic] in one or two sentences. Use simple language and avoid technical jargon.
+Key Components: Break down the topic into 2-3 key components or concepts that are essential for understanding the whole.
+Significance: Explain why [Topic] is important. Mention its relevance in daily life, its impact on related fields, or its value in a specific context.
+Common Misunderstandings: Address any common misconceptions or errors that people might have about [Topic].
+###Expected Response Format###
+Concise: Keep the explanation brief but comprehensive.
+Accessible Language: Use language that can be easily understood by someone with no prior knowledge of the topic.
+Engaging: Make the explanation engaging by relating it to real-life applications or interesting facts.
+
+"
+schoolEssay,"Your task is to develop a structured and well-argued essay on [Topic] referenced previously.
+###Instructions###
+Introduction: Begin with a clear thesis statement that presents your main argument or position on [Topic]. Briefly outline the points that you will discuss in the essay.
+Body Paragraphs:
+Point One: Start with your strongest point or most compelling evidence. Explain how this supports your thesis.
+Point Two: Continue with additional arguments or evidence, ensuring each point logically builds on the last and ties back to your thesis.
+Point Three: Offer further analysis or discuss alternative perspectives, and explain how these reinforce your thesis statement.
+Examples and Evidence: For each point, include specific examples, details, or data that support your arguments. These can be from credible sources, case studies, or personal observations.
+Counterarguments: Acknowledge potential counterarguments or opposing views. Provide a reasoned response to these views, strengthening your own position.
+Conclusion:
+Summarize Key Points: Recap the main arguments you've made in the essay without introducing new information.
+Restate Thesis: Clearly restate your thesis in a way that reflects the arguments you've made.
+Call to Action or Reflection: End with a call to action, a question for further study, or a personal reflection to leave the reader thinking about [Topic].
+###Expected Response Format###
+Structured and Organized: The essay should have a clear introduction, body, and conclusion.
+Cohesive: Use transitions between paragraphs to maintain flow and coherency.
+Formal Tone: Maintain a formal and academic tone throughout the essay.","##Your task is to develop a structured and well-argued essay on [Topic] referenced previously.
+###Instructions###
+Introduction: Begin with a clear thesis statement that presents your main argument or position on [Topic]. Briefly outline the points that you will discuss in the essay.
+Body Paragraphs:
+Point One: Start with your strongest point or most compelling evidence. Explain how this supports your thesis.
+Point Two: Continue with additional arguments or evidence, ensuring each point logically builds on the last and ties back to your thesis.
+Point Three: Offer further analysis or discuss alternative perspectives, and explain how these reinforce your thesis statement.
+Examples and Evidence: For each point, include specific examples, details, or data that support your arguments. These can be from credible sources, case studies, or personal observations.
+Counterarguments: Acknowledge potential counterarguments or opposing views. Provide a reasoned response to these views, strengthening your own position.
+Conclusion:
+Summarize Key Points: Recap the main arguments you've made in the essay without introducing new information.
+Restate Thesis: Clearly restate your thesis in a way that reflects the arguments you've made.
+Call to Action or Reflection: End with a call to action, a question for further study, or a personal reflection to leave the reader thinking about [Topic].
+###Expected Response Format###
+Structured and Organized: The essay should have a clear introduction, body, and conclusion.
+Cohesive: Use transitions between paragraphs to maintain flow and coherency.
+Formal Tone: Maintain a formal and academic tone throughout the essay.
+
+"
+explainComplexTopics,"Your task is to distill and communicate the essence of [Complex Topic] in a clear and accessible manner.
+###Instructions###
+Break Down the Topic: Start by identifying the core components of [Complex Topic]. List these components briefly.
+Define Key Terms: Define any technical terms or jargon related to [Complex Topic]. Use simple definitions to make the terms accessible to non-experts.
+Use Analogies: Explain complex aspects of [Complex Topic] using analogies. Choose analogies that relate to common experiences or well-known concepts to make the idea easier to grasp.
+Step-by-Step Explanation: Lay out the workings or implications of [Complex Topic] in a logical, step-by-step manner. Focus on one aspect at a time to avoid overwhelming the reader.
+Highlight Relevance: Explain why understanding [Complex Topic] is important. Connect it to broader themes, real-world applications, or its impact on specific fields or everyday life.
+Summary: Conclude by summarizing the main points in a clear and concise manner. Recap the simplified explanation and emphasize the key takeaways.
+###Expected Response Format###
+Organized and Logical: Present information in a well-structured format, progressing logically from basic concepts to more detailed explanations.
+Clear and Concise Language: Use clear, straightforward language, avoiding unnecessary complexity.
+Engaging and Educational: Aim to engage and educate, sparking interest in [Complex Topic] while ensuring the reader understands its fundamental aspects.
+","##Your task is to distill and communicate the essence of [Complex Topic] in a clear and accessible manner.
+###Instructions###
+Break Down the Topic: Start by identifying the core components of [Complex Topic]. List these components briefly.
+Define Key Terms: Define any technical terms or jargon related to [Complex Topic]. Use simple definitions to make the terms accessible to non-experts.
+Use Analogies: Explain complex aspects of [Complex Topic] using analogies. Choose analogies that relate to common experiences or well-known concepts to make the idea easier to grasp.
+Step-by-Step Explanation: Lay out the workings or implications of [Complex Topic] in a logical, step-by-step manner. Focus on one aspect at a time to avoid overwhelming the reader.
+Highlight Relevance: Explain why understanding [Complex Topic] is important. Connect it to broader themes, real-world applications, or its impact on specific fields or everyday life.
+Summary: Conclude by summarizing the main points in a clear and concise manner. Recap the simplified explanation and emphasize the key takeaways.
+###Expected Response Format###
+Organized and Logical: Present information in a well-structured format, progressing logically from basic concepts to more detailed explanations.
+Clear and Concise Language: Use clear, straightforward language, avoiding unnecessary complexity.
+Engaging and Educational: Aim to engage and educate, sparking interest in [Complex Topic] while ensuring the reader understands its fundamental aspects.
+
+
+"
+thinkStepByStep,"Your task is to explore and expand [Your Idea] through a detailed, step-by-step thought process.
+###Instruction###
+State the Idea: Clearly articulate the initial idea. If it involves a problem, state the problem. If it's a concept or a solution, describe it succinctly.
+Objectives and Goals: Define what you aim to achieve with [Your Idea]. Be specific about the outcomes or improvements you are targeting.
+Break Down the Components: Identify and list the major components or aspects of [Your Idea]. Describe each component in detail.
+Potential Challenges: For each component, consider possible challenges or obstacles that might arise. Discuss how these challenges could impact the overall viability of [Your Idea].
+Solutions and Strategies: Propose solutions or strategies to overcome the identified challenges. Include alternative approaches where applicable to provide flexibility.
+Implementation Steps: Outline a series of actionable steps for implementing [Your Idea]. Ensure each step is clear and logical, building on the previous one.
+Evaluation: Describe how you would measure the success of [Your Idea] once implemented. Consider what metrics or feedback would indicate success or areas needing adjustment.
+Reflection and Adaptation: Suggest methods for reflecting on and adapting [Your Idea] based on hypothetical outcomes or feedback received. This could involve tweaking the approach, scaling components, or pivoting direction.
+###Expected Response Format###
+Detailed and Methodical: Provide a thorough analysis and development of each component of the idea.
+Sequential Layout: Structure the response to follow a logical sequence, ensuring that each part builds upon the last.
+Clear and Precise Language: Use clear and precise language to convey complex information effectively.","##Your task is to explore and expand [Your Idea] through a detailed, step-by-step thought process.
+###Instruction###
+State the Idea: Clearly articulate the initial idea. If it involves a problem, state the problem. If it's a concept or a solution, describe it succinctly.
+Objectives and Goals: Define what you aim to achieve with [Your Idea]. Be specific about the outcomes or improvements you are targeting.
+Break Down the Components: Identify and list the major components or aspects of [Your Idea]. Describe each component in detail.
+Potential Challenges: For each component, consider possible challenges or obstacles that might arise. Discuss how these challenges could impact the overall viability of [Your Idea].
+Solutions and Strategies: Propose solutions or strategies to overcome the identified challenges. Include alternative approaches where applicable to provide flexibility.
+Implementation Steps: Outline a series of actionable steps for implementing [Your Idea]. Ensure each step is clear and logical, building on the previous one.
+Evaluation: Describe how you would measure the success of [Your Idea] once implemented. Consider what metrics or feedback would indicate success or areas needing adjustment.
+Reflection and Adaptation: Suggest methods for reflecting on and adapting [Your Idea] based on hypothetical outcomes or feedback received. This could involve tweaking the approach, scaling components, or pivoting direction.
+###Expected Response Format###
+Detailed and Methodical: Provide a thorough analysis and development of each component of the idea.
+Sequential Layout: Structure the response to follow a logical sequence, ensuring that each part builds upon the last.
+Clear and Precise Language: Use clear and precise language to convey complex information effectively.
+
+"
+newsletterIdeaGenerator,"Your task is to create an engaging and informative newsletter centered around [Your Idea/Topic].
+###Instruction###
+Introduction Section: Start with a brief introduction that captures the essence of [Your Idea/Topic]. Explain the purpose of the newsletter and what readers can expect to gain from it.
+Main Content Sections:
+Feature Article: Outline a feature article that provides an in-depth look at the central aspect of [Your Idea/Topic]. Detail what key points will be covered.
+Interview or Expert Insight: Plan an interview section with an expert or influencer who can offer valuable insights related to [Your Idea/Topic]. List potential questions or topics of discussion.
+Case Studies or Success Stories: Include one or two short stories or case studies that demonstrate the practical application or success of [Your Idea/Topic].
+Data or Research Highlights: Summarize any relevant data, research findings, or statistics that bolster the credibility and understanding of [Your Idea/Topic].
+Supporting Content:
+Tips and Tricks: Provide actionable tips or advice related to [Your Idea/Topic].
+Upcoming Events: Mention any upcoming events, webinars, or workshops that are relevant to [Your Idea/Topic].
+Resources Section: List books, articles, websites, or other resources for readers who want to explore [Your Idea/Topic] in more detail.
+Call to Action: Include a call to action encouraging readers to engage further with [Your Idea/Topic]. This could be signing up for a webinar, joining a community discussion, or following your organization on social media.
+Closing Remarks: End with a brief conclusion that reinforces the value of the newsletter and thanks readers for their time.
+###Expected Response Format###
+Organized and Structured: The outline should be well-organized, with clear headings and subheadings for each section.
+Concise Descriptions: Each section should include a concise description of what will be covered, keeping the reader's interest in mind.
+Engaging Tone: Maintain an engaging and inviting tone throughout the outline to encourage readership and interaction.","##Your task is to create an engaging and informative newsletter centered around [Your Idea/Topic].
+###Instruction###
+Introduction Section: Start with a brief introduction that captures the essence of [Your Idea/Topic]. Explain the purpose of the newsletter and what readers can expect to gain from it.
+Main Content Sections:
+Feature Article: Outline a feature article that provides an in-depth look at the central aspect of [Your Idea/Topic]. Detail what key points will be covered.
+Interview or Expert Insight: Plan an interview section with an expert or influencer who can offer valuable insights related to [Your Idea/Topic]. List potential questions or topics of discussion.
+Case Studies or Success Stories: Include one or two short stories or case studies that demonstrate the practical application or success of [Your Idea/Topic].
+Data or Research Highlights: Summarize any relevant data, research findings, or statistics that bolster the credibility and understanding of [Your Idea/Topic].
+Supporting Content:
+Tips and Tricks: Provide actionable tips or advice related to [Your Idea/Topic].
+Upcoming Events: Mention any upcoming events, webinars, or workshops that are relevant to [Your Idea/Topic].
+Resources Section: List books, articles, websites, or other resources for readers who want to explore [Your Idea/Topic] in more detail.
+Call to Action: Include a call to action encouraging readers to engage further with [Your Idea/Topic]. This could be signing up for a webinar, joining a community discussion, or following your organization on social media.
+Closing Remarks: End with a brief conclusion that reinforces the value of the newsletter and thanks readers for their time.
+###Expected Response Format###
+Organized and Structured: The outline should be well-organized, with clear headings and subheadings for each section.
+Concise Descriptions: Each section should include a concise description of what will be covered, keeping the reader's interest in mind.
+Engaging Tone: Maintain an engaging and inviting tone throughout the outline to encourage readership and interaction.
+
+"
+cureWritersBlock,"Your task is to stimulate creativity and find new angles to explore [Your Idea/Topic] that help overcome writer's block.
+###Instruction###
+Mind Mapping: Start by creating a mind map of [Your Idea/Topic]. Jot down everything related to the topic, including related sub-topics, questions, and potential answers. This visual organization can help you see connections you hadn't considered before.
+Different Perspectives: Write about [Your Idea/Topic] from the perspective of someone else. It could be a child, a senior, an expert in a different field, or even a fictional character. This shift can uncover fresh insights and rejuvenate interest in your topic.
+Prompt Questions: Answer specific, guided questions about your topic:
+What excites you most about [Your Idea/Topic]?
+What is the most challenging aspect of [Your Idea/Topic]?
+How would you explain [Your Idea/Topic] to someone with no prior knowledge of it?
+What are the potential future trends related to [Your Idea/Topic]?
+###Expected Response Format###
+Diverse and Creative: The responses should reflect a variety of angles and perspectives.
+Insightful and Reflective: Your writing should reveal new insights or rediscover passion for the topic.
+Motivational: The exercise should motivate continued writing and exploration of [Your Idea/Topic].","##Your task is to stimulate creativity and find new angles to explore [Your Idea/Topic] that help overcome writer's block.
+###Instruction###
+Mind Mapping: Start by creating a mind map of [Your Idea/Topic]. Jot down everything related to the topic, including related sub-topics, questions, and potential answers. This visual organization can help you see connections you hadn't considered before.
+Different Perspectives: Write about [Your Idea/Topic] from the perspective of someone else. It could be a child, a senior, an expert in a different field, or even a fictional character. This shift can uncover fresh insights and rejuvenate interest in your topic.
+Prompt Questions: Answer specific, guided questions about your topic:
+What excites you most about [Your Idea/Topic]?
+What is the most challenging aspect of [Your Idea/Topic]?
+How would you explain [Your Idea/Topic] to someone with no prior knowledge of it?
+What are the potential future trends related to [Your Idea/Topic]?
+###Expected Response Format###
+Diverse and Creative: The responses should reflect a variety of angles and perspectives.
+Insightful and Reflective: Your writing should reveal new insights or rediscover passion for the topic.
+Motivational: The exercise should motivate continued writing and exploration of [Your Idea/Topic].
+
+"
+makeConnectionsBetweenIdeas,"Your task is to discover and explain how [Idea 1] and [Idea 2], seemingly unrelated, are interconnected or can influence each other.
+###Instruction###
+Define Each Idea: Start by defining both [Idea 1] and [Idea 2] separately. Provide a brief overview of each idea to ensure clarity and understanding before discussing their connection.
+Identify Common Grounds: List any common elements, themes, or underlying principles that [Idea 1] and [Idea 2] share. This might include similar goals, methods, problems they address, or contexts in which they are applied.
+Explore Direct Connections: Analyze any direct interactions or influences these ideas might have on each other. Consider how one idea might enhance, complement, or challenge the other.
+Theoretical Integration: Discuss theoretical perspectives or frameworks that could integrate [Idea 1] and [Idea 2]. This might involve merging concepts from each idea to form a new approach or understanding.
+Practical Implications: Examine any practical outcomes of combining these ideas. What new solutions, products, or improvements might emerge? How could this combination benefit specific industries, fields, or societal issues?
+Historical or Future Perspectives: Reflect on any historical context where these ideas may have intersected, or speculate on future trends that might bring them together.
+Personal Insight or Hypotheses: Offer your personal insight or hypotheses about why these ideas are connected and what this means for future developments or applications.
+###Expected Response Format###
+Analytical and Insightful: The response should delve deeply into both ideas, exploring their relationship with sophistication and depth.
+Structured and Clear: Organize the explanation logically, ensuring that the connections made are easy to follow and understand.
+Evidence-Supported: Where possible, support your connections with evidence or examples that illustrate the interplay between [Idea 1] and [Idea 2].","##Your task is to discover and explain how [Idea 1] and [Idea 2], seemingly unrelated, are interconnected or can influence each other.
+###Instruction###
+Define Each Idea: Start by defining both [Idea 1] and [Idea 2] separately. Provide a brief overview of each idea to ensure clarity and understanding before discussing their connection.
+Identify Common Grounds: List any common elements, themes, or underlying principles that [Idea 1] and [Idea 2] share. This might include similar goals, methods, problems they address, or contexts in which they are applied.
+Explore Direct Connections: Analyze any direct interactions or influences these ideas might have on each other. Consider how one idea might enhance, complement, or challenge the other.
+Theoretical Integration: Discuss theoretical perspectives or frameworks that could integrate [Idea 1] and [Idea 2]. This might involve merging concepts from each idea to form a new approach or understanding.
+Practical Implications: Examine any practical outcomes of combining these ideas. What new solutions, products, or improvements might emerge? How could this combination benefit specific industries, fields, or societal issues?
+Historical or Future Perspectives: Reflect on any historical context where these ideas may have intersected, or speculate on future trends that might bring them together.
+Personal Insight or Hypotheses: Offer your personal insight or hypotheses about why these ideas are connected and what this means for future developments or applications.
+###Expected Response Format###
+Analytical and Insightful: The response should delve deeply into both ideas, exploring their relationship with sophistication and depth.
+Structured and Clear: Organize the explanation logically, ensuring that the connections made are easy to follow and understand.
+Evidence-Supported: Where possible, support your connections with evidence or examples that illustrate the interplay between [Idea 1] and [Idea 2].
+
+"
+createYouTubeScriptOutline,"Your task is to create an engaging and informative script that effectively communicates [Your Idea/Topic] to a YouTube audience.
+###Instruction###
+Hook: Start with a compelling hook that grabs the viewer's attention within the first few seconds. Pose a question, state an intriguing fact, or present a common problem related to [Your Idea/Topic].
+Introduction: Briefly introduce yourself (if applicable) and provide a succinct overview of what the video will cover regarding [Your Idea/Topic].
+Body:
+Point 1: Start with the most engaging point or the fundamental aspect of [Your Idea/Topic]. Explain this point in depth, using visuals or examples where possible.
+Point 2: Build on the first point or introduce a new aspect of [Your Idea/Topic]. Keep explanations clear and ensure each point logically flows into the next.
+Point 3 and Beyond: Continue with additional points, maintaining a logical progression and keeping each segment focused and informative.
+Demonstration or Example: If applicable, include a demonstration, walkthrough, or real-life example to better illustrate your points and make the content more relatable.
+Engagement Prompts: Throughout the video, prompt viewers to engage with the content. Ask questions, encourage them to comment their thoughts, or suggest they like and subscribe if they find the video helpful.
+Conclusion:
+Recap: Briefly summarize the key points discussed in the video.
+Call to Action: End with a strong call to action. Encourage viewers to subscribe, watch another video, or follow you on social media.
+Closing Remarks: Thank the viewers for watching, and hint at what's coming next if you have upcoming videos planned.
+###Expected Response Format###
+Narrative and Conversational: The script should be narrative and engaging, as if you're conversing directly with the audience.
+Clear and Concise: Keep language clear and concise for better comprehension and retention.
+Visually Descriptive: Describe visuals, graphics, or animations you plan to include, indicating how they align with your spoken content.","##Your task is to create an engaging and informative script that effectively communicates [Your Idea/Topic] to a YouTube audience.
+###Instruction###
+Hook: Start with a compelling hook that grabs the viewer's attention within the first few seconds. Pose a question, state an intriguing fact, or present a common problem related to [Your Idea/Topic].
+Introduction: Briefly introduce yourself (if applicable) and provide a succinct overview of what the video will cover regarding [Your Idea/Topic].
+Body:
+Point 1: Start with the most engaging point or the fundamental aspect of [Your Idea/Topic]. Explain this point in depth, using visuals or examples where possible.
+Point 2: Build on the first point or introduce a new aspect of [Your Idea/Topic]. Keep explanations clear and ensure each point logically flows into the next.
+Point 3 and Beyond: Continue with additional points, maintaining a logical progression and keeping each segment focused and informative.
+Demonstration or Example: If applicable, include a demonstration, walkthrough, or real-life example to better illustrate your points and make the content more relatable.
+Engagement Prompts: Throughout the video, prompt viewers to engage with the content. Ask questions, encourage them to comment their thoughts, or suggest they like and subscribe if they find the video helpful.
+Conclusion:
+Recap: Briefly summarize the key points discussed in the video.
+Call to Action: End with a strong call to action. Encourage viewers to subscribe, watch another video, or follow you on social media.
+Closing Remarks: Thank the viewers for watching, and hint at what's coming next if you have upcoming videos planned.
+###Expected Response Format###
+Narrative and Conversational: The script should be narrative and engaging, as if you're conversing directly with the audience.
+Clear and Concise: Keep language clear and concise for better comprehension and retention.
+Visually Descriptive: Describe visuals, graphics, or animations you plan to include, indicating how they align with your spoken content.
+
+"
+createPodcastQuestions,"Your task is to develop a set of thought-provoking and engaging questions that explore [Your Idea/Topic] in depth, including its controversial and trending aspects.
+###Instruction###
+Background Questions:
+Can you give us a brief overview of [Your Idea/Topic]?
+How did you first become involved or interested in [Your Idea/Topic]?
+Deep Dive Questions:
+What are the core principles or innovations behind [Your Idea/Topic]?
+Can you explain a particular aspect of [Your Idea/Topic] that people often misunderstand?
+Controversial Questions:
+There has been some debate about [specific controversial aspect of Your Idea/Topic]. Where do you stand on this issue?
+How do you respond to critics who say [insert common criticism] about [Your Idea/Topic]?
+Trending Questions:
+ Given the recent news about [related trending topic], how does this impact [Your Idea/Topic]?
+ What role do you see for [Your Idea/Topic] in light of [current event or trend]?
+Impact and Future Questions:
+What has been the most surprising impact of [Your Idea/Topic]?
+Where do you see [Your Idea/Topic] going in the next five years?
+Personal Insight Questions:
+What has been your biggest challenge with [Your Idea/Topic]?
+What personal lessons have you learned from working on [Your Idea/Topic]?
+Audience Engagement Questions:
+For those interested in getting involved with or learning more about [Your Idea/Topic], what resources would you recommend?
+How can our listeners support or engage with [Your Idea/Topic]?
+###Expected Response Format###
+Variety and Depth: Ensure the questions cover a variety of aspects, from introductory to complex, including personal insights.
+Engaging and Provocative: Craft questions that provoke thoughtful responses, especially with controversial or trending topics.
+Clear and Concise: Questions should be clear and to the point to avoid confusion and ensure they are easily understood by both the guest and the audience.","##Your task is to develop a set of thought-provoking and engaging questions that explore [Your Idea/Topic] in depth, including its controversial and trending aspects.
+###Instruction###
+Background Questions:
+Can you give us a brief overview of [Your Idea/Topic]?
+How did you first become involved or interested in [Your Idea/Topic]?
+Deep Dive Questions:
+What are the core principles or innovations behind [Your Idea/Topic]?
+Can you explain a particular aspect of [Your Idea/Topic] that people often misunderstand?
+Controversial Questions:
+There has been some debate about [specific controversial aspect of Your Idea/Topic]. Where do you stand on this issue?
+How do you respond to critics who say [insert common criticism] about [Your Idea/Topic]?
+Trending Questions:
+ Given the recent news about [related trending topic], how does this impact [Your Idea/Topic]?
+ What role do you see for [Your Idea/Topic] in light of [current event or trend]?
+Impact and Future Questions:
+What has been the most surprising impact of [Your Idea/Topic]?
+Where do you see [Your Idea/Topic] going in the next five years?
+Personal Insight Questions:
+What has been your biggest challenge with [Your Idea/Topic]?
+What personal lessons have you learned from working on [Your Idea/Topic]?
+Audience Engagement Questions:
+For those interested in getting involved with or learning more about [Your Idea/Topic], what resources would you recommend?
+How can our listeners support or engage with [Your Idea/Topic]?
+###Expected Response Format###
+Variety and Depth: Ensure the questions cover a variety of aspects, from introductory to complex, including personal insights.
+Engaging and Provocative: Craft questions that provoke thoughtful responses, especially with controversial or trending topics.
+Clear and Concise: Questions should be clear and to the point to avoid confusion and ensure they are easily understood by both the guest and the audience.
+
+"
+chainOfThought,"Your task is to build out, improve and generate new content ideas based on my previous idea input. Follow these steps. Do each step, even if you think you do not need to.
+First generate a list of 30 ideas (short title only)
+Second, go through the list and determine whether the ideas are different and bold, modify the ideas as needed to make them bolder and more different. No two ideas should be the same. This is important!
+Next, give the ideas a name and combine it with a product description. The name and idea are separated by a colon and followed by a description. The idea should be expressed as a paragraph of 40-80 words. Do this step by step!","##Your task is to build out, improve and generate new content ideas based on my previous idea input. Follow these steps. Do each step, even if you think you do not need to.
+First generate a list of 30 ideas (short title only)
+Second, go through the list and determine whether the ideas are different and bold, modify the ideas as needed to make them bolder and more different. No two ideas should be the same. This is important!
+Next, give the ideas a name and combine it with a product description. The name and idea are separated by a colon and followed by a description. The idea should be expressed as a paragraph of 40-80 words. Do this step by step!
+
+"

@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      proven_mistake: string
+      why: string
+output:
+  format: text
+---
+    Another {{topic}} mistake I used to make: {{proven_mistake}}. And it took me a long time to learn the reason why was because {{why}}.

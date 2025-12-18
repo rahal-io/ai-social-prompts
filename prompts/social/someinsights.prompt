@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      insight_1: string
+      insight_2: string
+      insight_3: string
+output:
+  format: text
+---
+Some insights on {{topic}}: {{insight_1}} {{insight_2}} {{insight_3}} Do {{topic}} long enough, and you’ll learn these to be true.

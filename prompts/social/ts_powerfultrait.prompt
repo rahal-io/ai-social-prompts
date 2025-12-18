@@ -1,0 +1,20 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      trait: string
+      benefit_1: string
+      benefit_2: string
+      benefit_3: string
+      philosopher: string
+      quote_about_trait: string
+output:
+  format: text
+---
+The most powerful character trait you can develop:
+{{trait}}
+Here are 3 things {{trait}} breeds:
+{{benefit_1}}
+{{benefit_2}}
+{{benefit_3}}
+No wonder {{philosopher}} said {{quote_about_trait}}.

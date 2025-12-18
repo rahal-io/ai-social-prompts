@@ -1,0 +1,72 @@
+﻿emailPromptName,emailTemplatePromptText,packagedTemplatePromptText,emailType
+podcastPromotion,"Section 1: Begin the email with a hook that focus on pain points or interesting ideas. 
+Section 2: Reaffirm that if the prospect does not begin to solve the pain point then it's only going to get worse. 
+Section 3: Introduce the podcast episode and the important details. You will be penalized is you use contrastive sentences or sentences that juxtapose the positive and negative. 
+Section 4: Bulletpoint list the top 3 things they'll learn from the podcast.
+Section 5: Add another convincing sentences as to why they should sign up. You will be penalized is you use contrastive sentences or sentences that juxtapose the positive and negative. 
+Section 6: Add an agreement statement. 
+Section 7: Add a final call to action.
+--
+You do not need to write section 1, 2, etc. I have used these to guide you on what is required for each part of the email.","##Section 1: Begin the email with a hook that focus on pain points or interesting ideas. 
+Section 2: Reaffirm that if the prospect does not begin to solve the pain point then it's only going to get worse. 
+Section 3: Introduce the podcast episode and the important details. You will be penalized is you use contrastive sentences or sentences that juxtapose the positive and negative. 
+Section 4: Bulletpoint list the top 3 things they'll learn from the podcast.
+Section 5: Add another convincing sentences as to why they should sign up. You will be penalized is you use contrastive sentences or sentences that juxtapose the positive and negative. 
+Section 6: Add an agreement statement. 
+Section 7: Add a final call to action.
+--
+You do not need to write section 1, 2, etc. I have used these to guide you on what is required for each part of the email.
+
+",podcast
+blogpostPromotion,"Please write a promotional email for a blogpost.
+
+I has to be in 3 sections:
+
+Section 1: Begin the email with a hook that focuses on pain points or interesting ideas from the article. This section should be 2 sentences in length.
+Section 2: Confirm to the read that if they want to solve these pain points they need to read the article now. This should 1 sentence.
+Section 3: Provide a call to action. This should be 1 sentence.
+This email should be 250 words or less. 
+
+At the end create a call to action
+
+Your output must be written in Markdown format (atx). You should add bulletpoints  for section 2, not write the section. Also ensure the first section begins with ##, instead of just #","##Please write a promotional email for a blogpost.
+
+I has to be in 3 sections:
+
+Section 1: Begin the email with a hook that focuses on pain points or interesting ideas from the article. This section should be 2 sentences in length.
+Section 2: Confirm to the read that if they want to solve these pain points they need to read the article now. This should 1 sentence.
+Section 3: Provide a call to action. This should be 1 sentence.
+This email should be 250 words or less. 
+
+At the end create a call to action
+
+Your output must be written in Markdown format (atx). You should add bulletpoints  for section 2, not write the section. Also ensure the first section begins with ##, instead of just #
+
+",blogpost
+summitAffiliatePromotionEmail,"Section 1: Introduce the summit and how excited you are to be a speaker
+Section 2: Add what your talk is about and 3 key takeaways
+Section 3: talk about how you're excited to be alongside other industry experts
+Section 4: provide a call to action for them to sign up for the free summit below","##Section 1: Introduce the summit and how excited you are to be a speaker
+Section 2: Add what your talk is about and 3 key takeaways
+Section 3: talk about how you're excited to be alongside other industry experts
+Section 4: provide a call to action for them to sign up for the free summit below
+
+",summit speaker
+contentToNewsletter,"Choose 1 broad topic from the content and 1 topic only. Your task is to write an informative newsletter that educates the reader on this topic. Follow the framework below, slowly and step by step. Do not add any fluff. Do not use any contrastive or juxtaposing sentences. 
+Section 1: Tell the reader what you are going to teach. This should be 1 sentence in length.
+Section 2: Tell the reader why it matters to them. This should be 2 sentences in length. 
+Section 3: Tell the reader why most people fail. This should be 1 sentence in length. 
+Section 4: Provide a strong topical statement to setup the rest of the newsletter. 
+Section 5: Provide a bulleted list of takeaways of what you will cover. 
+Section 6: Using the bulleted list, now provide a 400 word education piece on this topic. ","##Choose 1 broad topic from the content and 1 topic only. Your task is to write an informative newsletter that educates the reader on this topic. Follow the framework below, slowly and step by step. Do not add any fluff. Do not use any contrastive or juxtaposing sentences. 
+Section 1: Tell the reader what you are going to teach. This should be 1 sentence in length.
+Section 2: Tell the reader why it matters to them. This should be 2 sentences in length. 
+Section 3: Tell the reader why most people fail. This should be 1 sentence in length. 
+Section 4: Provide a strong topical statement to setup the rest of the newsletter. 
+Section 5: Provide a bulleted list of takeaways of what you will cover. 
+Section 6: Using the bulleted list, now provide a 400 word education piece on this topic. 
+
+",newsletter
+SocialPostPromotion,"Write a professional email to a customer introducing our product. Mention its key features, how it can benefit the customer, and why it stands out compared to other products in the market. Address the customer by their name, provide a friendly tone, and invite them to ask any questions or schedule a call for further information. Make sure to include a call-to-action (CTA), such as requesting a demo or offering a discount for first-time buyers. The email should be clear, concise, and persuasive, emphasizing how our product can solve the customer's problem or enhance their business.","##Write a professional email to a customer introducing our product. Mention its key features, how it can benefit the customer, and why it stands out compared to other products in the market. Address the customer by their name, provide a friendly tone, and invite them to ask any questions or schedule a call for further information. Make sure to include a call-to-action (CTA), such as requesting a demo or offering a discount for first-time buyers. The email should be clear, concise, and persuasive, emphasizing how our product can solve the customer's problem or enhance their business.
+
+",painPoint

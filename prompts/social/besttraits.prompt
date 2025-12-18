@@ -1,0 +1,14 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      trait_1: string
+      trait_2: string
+      trait_3: string
+      trait_4: string
+      trait_5: string
+output:
+  format: text
+---
+These are the traits of the best {{topic}}: {{trait_1}} {{trait_2}} {{trait_3}} {{trait_4}} {{trait_5}} Look around—you’ll see all the pros have these.

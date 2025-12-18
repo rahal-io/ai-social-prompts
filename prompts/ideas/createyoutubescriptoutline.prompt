@@ -1,0 +1,26 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      your_idea_topic: string
+output:
+  format: text
+---
+Your task is to create an engaging and informative script that effectively communicates {{your_idea_topic}} to a YouTube audience.
+#Instruction###
+Hook: Start with a compelling hook that grabs the viewer's attention within the first few seconds. Pose a question, state an intriguing fact, or present a common problem related to {{your_idea_topic}}.
+Introduction: Briefly introduce yourself (if applicable) and provide a succinct overview of what the video will cover regarding {{your_idea_topic}}.
+Body:
+Point 1: Start with the most engaging point or the fundamental aspect of {{your_idea_topic}}. Explain this point in depth, using visuals or examples where possible.
+Point 2: Build on the first point or introduce a new aspect of {{your_idea_topic}}. Keep explanations clear and ensure each point logically flows into the next.
+Point 3 and Beyond: Continue with additional points, maintaining a logical progression and keeping each segment focused and informative.
+Demonstration or Example: If applicable, include a demonstration, walkthrough, or real-life example to better illustrate your points and make the content more relatable.
+Engagement Prompts: Throughout the video, prompt viewers to engage with the content. Ask questions, encourage them to comment their thoughts, or suggest they like and subscribe if they find the video helpful.
+Conclusion:
+Recap: Briefly summarize the key points discussed in the video.
+Call to Action: End with a strong call to action. Encourage viewers to subscribe, watch another video, or follow you on social media.
+Closing Remarks: Thank the viewers for watching, and hint at what's coming next if you have upcoming videos planned.
+#Expected Response Format###
+Narrative and Conversational: The script should be narrative and engaging, as if you're conversing directly with the audience.
+Clear and Concise: Keep language clear and concise for better comprehension and retention.
+Visually Descriptive: Describe visuals, graphics, or animations you plan to include, indicating how they align with your spoken content.

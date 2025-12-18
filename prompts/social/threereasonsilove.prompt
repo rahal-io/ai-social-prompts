@@ -1,0 +1,17 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      thing_action_career_eg_selling_ebooks_copywriting_web_design: string
+      reason1: string
+      reason2: string
+      reason3: string
+      link: string
+output:
+  format: text
+---
+Top 3 reasons I love about {{thing_action_career_eg_selling_ebooks_copywriting_web_design}}. 
+1. {{reason1}} 
+2. {{reason2}} 
+3. {{reason3}}. 
+Sound interesting? Click 👇. {{link}}"

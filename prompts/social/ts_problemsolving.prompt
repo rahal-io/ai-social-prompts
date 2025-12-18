@@ -1,0 +1,22 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      solving_problem: string
+      single_sentence_answer: string
+      benefit_1: string
+      benefit_2: string
+      benefit_3: string
+      friction: string
+      no_friction: string
+output:
+  format: text
+---
+My go-to method for {{solving_problem}}:
+{{single_sentence_answer}}
+Here's why that works:
+{{benefit_1}}
+{{benefit_2}}
+{{benefit_3}}
+At first, you'll feel {{friction}}.
+But then? You'll feel {{no_friction}}.

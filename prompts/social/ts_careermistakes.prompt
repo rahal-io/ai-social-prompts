@@ -1,0 +1,64 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      time: string
+      x: string
+      niche: string
+      mistake1: string
+      role: string
+      wrongdecision: string
+      whydecision: string
+      logic: string
+      badoutcome: string
+      rightdecision: string
+      positiveoutcome: string
+      mistake2: string
+      goodoutcome: string
+      giantoutcome: string
+      mistake3: string
+      milestone: string
+      relevantquote: string
+      takeaway: string
+      mistake4: string
+      traditionalwisdom: string
+      rightdecision1: string
+      rightdecision2: string
+      mistake5: string
+      decision: string
+      resource: string
+      disaster: string
+output:
+  format: text
+---
+{X} Profound Career Mistakes Everyone (From Intern To Executive) Should Avoid In Their Career
+A few {{time}} ago, I asked {{x}} {{niche}} leaders one simple question:
+“What early career mistake will you never make again?”
+What I ended up walking away with was a messy notepad full of notes, a completely new way of seeing the world, and {{x}} profound mistakes everyone (from intern to executive) should avoid in their career.
+Let’s dive in:
+Mistake #1: {{mistake1}}
+Too often, {{role}} choose to {{wrongdecision}}.
+They {{whydecision}}. They think {{logic}}. Only to end up {{badoutcome}}.
+Instead, {{role}} should be focused on {{rightdecision}}.
+This is what ends up leading to {{positiveoutcome}}, {{positiveoutcome}}, and {{positiveoutcome}}.
+Mistake #2: {{mistake2}}
+A good {{role}} can {{goodoutcome}}.
+A bad {{role}} can {{badoutcome}}.
+But a legendary {{role}} can {{giantoutcome}}.
+Don’t get it confused: a {{goodoutcome}} is good, but it’s far from what makes the most difference.
+Mistake #3: {{mistake3}}
+Until you’ve {{milestone}}, don’t take your eye off the ball.
+{{relevantquote}}.
+To this day, I hang this quote up on my wall because it reminds me {{takeaway}}.
+Mistake #4: {{mistake4}}
+Traditional wisdom says {{traditionalwisdom}}.
+But that’s only true if you don’t do two things correctly:
+{{rightdecision1}}
+{{rightdecision2}}
+Then, {{traditionalwisdom}} works great.
+Mistake #5: {{mistake5}}
+We all think we can {{decision}}.
+We all think we have unlimited {{resource}}.
+We all think we are immune to {{disaster}}.
+But the truth is, we’re not.
+Which is why it’s much better to operate from first principles, and {{rightdecision}} from the very beginning.

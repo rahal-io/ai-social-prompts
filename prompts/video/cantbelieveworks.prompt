@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+I can't believe these work!

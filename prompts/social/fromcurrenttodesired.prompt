@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      current_situation: string
+      desired_outcome: string
+      system_method_framework_idea: string
+      content_piece_eg_newsletter_youtube_video_podcast: string
+      title: string
+output:
+  format: text
+---
+Going from {{current_situation}} to {{desired_outcome}} is easy when you have the right {{system_method_framework_idea}}. I’ll talk about it in the next {{content_piece_eg_newsletter_youtube_video_podcast}}, {{title}}, which will be launching soon.

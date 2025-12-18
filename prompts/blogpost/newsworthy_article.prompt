@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a Newsworthy Article. Follow this template attentively: 1. Identify a current and relevant event or trend. 2. Start with a compelling lead that summarizes the story. 3. Provide background information early on. 4. Include quotes from reliable sources. 5. Offer factual information with timely updates. 6. End with a look at potential future developments.

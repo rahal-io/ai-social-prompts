@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      benefit: string
+      reason_why: string
+output:
+  format: text
+---
+    Another benefit of {{topic}}: {{benefit}}{{reason_why}}

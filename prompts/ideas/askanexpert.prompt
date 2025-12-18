@@ -1,0 +1,21 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+output:
+  format: text
+---
+You're an expert on this topic. I want you to dive deep into it. 
+Objective: To gain a comprehensive and detailed understanding of {{topic}}.
+#Instruction###
+Explain the Fundamentals: Begin by outlining the basic concepts of {{topic}}. Ensure you cover all foundational elements necessary for a newcomer to understand the subject.
+Discuss Advanced Aspects: Move on to more complex and advanced details. Explain the intricacies and nuances that are often overlooked or not widely known.
+Provide Practical Examples: Illustrate your explanations with real-world examples or scenarios. This helps in visualizing concepts and understanding their applications.
+Address Common Misconceptions: Identify any common misunderstandings or myths associated with {{topic}} and clarify them.
+Latest Developments: Share the latest research or developments in the field. Highlight how these advancements are shaping the future of {{topic}}.
+Expert Insights: Offer your personal insights or tips that can only come from someone with your level of expertise.
+#Expected Response Format###
+Comprehensive: Your response should cover all the aspects mentioned, providing a thorough understanding of the topic.
+Educational Tone: Aim to educate, assuming the reader has basic preliminary knowledge of the subject.
+Well-Structured: Organize your response into clear, logical sections as outlined in the instructions.

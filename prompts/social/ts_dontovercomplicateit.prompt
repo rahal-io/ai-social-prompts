@@ -1,0 +1,29 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      specific_example: string
+      example_101: string
+      step_1: string
+      step_2: string
+      step_3: string
+      step_4: string
+      step_5: string
+      step_6: string
+output:
+  format: text
+---
+Most people overcomplicate {{topic}}.
+Especially {{specific_example}}.
+So, here's {{example_101}}.
+{{step_1}}
+{{step_2}}
+{{step_3}}
+Once you get there, you can then focus on:
+{{step_4}}
+{{step_5}}
+{{step_6}}
+The key to success?
+With every action you take, figure out which one of these steps you are stuck at.
+And then make a plan to progress to the next level.

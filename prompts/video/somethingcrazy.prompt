@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic_crazy_thing: string
+output:
+  format: text
+---
+Something crazy just happened {{topic_crazy_thing}}

@@ -1,0 +1,15 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Choose 1 broad topic from the content and 1 topic only. Your task is to write an informative newsletter that educates the reader on this topic. Follow the framework below, slowly and step by step. Do not add any fluff. Do not use any contrastive or juxtaposing sentences. 
+Section 1: Tell the reader what you are going to teach. This should be 1 sentence in length.
+Section 2: Tell the reader why it matters to them. This should be 2 sentences in length. 
+Section 3: Tell the reader why most people fail. This should be 1 sentence in length. 
+Section 4: Provide a strong topical statement to setup the rest of the newsletter. 
+Section 5: Provide a bulleted list of takeaways of what you will cover. 
+Section 6: Using the bulleted list, now provide a 400 word education piece on this topic.

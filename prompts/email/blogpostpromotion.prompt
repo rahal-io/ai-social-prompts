@@ -1,0 +1,20 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Please write a promotional email for a blogpost.
+
+I has to be in 3 sections:
+
+Section 1: Begin the email with a hook that focuses on pain points or interesting ideas from the article. This section should be 2 sentences in length.
+Section 2: Confirm to the read that if they want to solve these pain points they need to read the article now. This should 1 sentence.
+Section 3: Provide a call to action. This should be 1 sentence.
+This email should be 250 words or less. 
+
+At the end create a call to action
+
+Your output must be written in Markdown format (atx). You should add bulletpoints  for section 2, not write the section. Also ensure the first section begins with ##, instead of just #

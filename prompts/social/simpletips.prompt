@@ -1,0 +1,14 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      tip_1: string
+      tip_2: string
+      tip_3: string
+      tip_4: string
+      tip_5: string
+output:
+  format: text
+---
+Simple tips I would give anyone who wants to start {{topic}}: {{tip_1}} {{tip_2}} {{tip_3}} {{tip_4}} {{tip_5}} Yes, it’s this easy to get started.

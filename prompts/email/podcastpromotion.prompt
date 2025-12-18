@@ -1,0 +1,17 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Section 1: Begin the email with a hook that focus on pain points or interesting ideas. 
+Section 2: Reaffirm that if the prospect does not begin to solve the pain point then it's only going to get worse. 
+Section 3: Introduce the podcast episode and the important details. You will be penalized is you use contrastive sentences or sentences that juxtapose the positive and negative. 
+Section 4: Bulletpoint list the top 3 things they'll learn from the podcast.
+Section 5: Add another convincing sentences as to why they should sign up. You will be penalized is you use contrastive sentences or sentences that juxtapose the positive and negative. 
+Section 6: Add an agreement statement. 
+Section 7: Add a final call to action.
+--
+You do not need to write section 1, 2, etc. I have used these to guide you on what is required for each part of the email.

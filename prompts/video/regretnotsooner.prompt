@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+output:
+  format: text
+---
+My biggest regret is not trying this {{topic}} sooner.

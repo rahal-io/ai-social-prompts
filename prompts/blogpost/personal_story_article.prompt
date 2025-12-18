@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a Personal Story Article. Follow this template with care: 1. Choose a significant personal experience. 2. Start with an engaging hook that relates to your main theme. 3. Include sensory details to make the story vivid. 4. Share your thoughts and emotions during the story. 5. Reflect on the impact of the experience. 6. End with a lesson learned or a call to action.

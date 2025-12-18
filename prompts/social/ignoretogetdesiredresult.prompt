@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      desired_result: string
+      thing_that_provides_desired_result: string
+output:
+  format: text
+---
+To achieve {{desired_result}}, you must ignore B and C. To Ignore B and C, you must learn {{thing_that_provides_desired_result}}. Those who have learned D know what I'm talking about.

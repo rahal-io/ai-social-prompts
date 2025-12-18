@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic_person: string
+      bad_habit_1: string
+      bad_habit_2: string
+      bad_habit_3: string
+      bad_habit_4: string
+output:
+  format: text
+---
+    These things ruin you as a {{topic_person}}: {{bad_habit_1}} {{bad_habit_2}} {{bad_habit_3}} {{bad_habit_4}} Avoid as many of these as possible.

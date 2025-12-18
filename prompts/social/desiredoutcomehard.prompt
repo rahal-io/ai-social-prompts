@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      desired_outcome: string
+      content_piece_eg_newsletter_youtube_video_podcast: string
+      title: string
+output:
+  format: text
+---
+{{desired_outcome}} doesn't have to be hard. In my next {{content_piece_eg_newsletter_youtube_video_podcast}}, {{title}}, you'll see how simple it is to {{desired_outcome}}.

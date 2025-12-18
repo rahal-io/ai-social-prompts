@@ -1,0 +1,18 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      number_of_things: string
+      desired_result: string
+      thing_1: string
+      thing_2: string
+      thing_3: string
+      desired_outcome: string
+output:
+  format: text
+---
+You need {{number_of_things}} things to {{desired_result}}. 
+The first is {{thing_1}}. 
+The second is {{thing_2}}. 
+And the third {{thing_3}}. 
+If you have those, then {{desired_outcome}} is fully attainable.

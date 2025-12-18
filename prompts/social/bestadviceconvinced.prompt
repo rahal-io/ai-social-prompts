@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic_advice: string
+      reason_1: string
+      reason_2: string
+      reason_3: string
+output:
+  format: text
+---
+    I’m convinced {{topic_advice}} is the best advice to live by. {{reason_1}} {{reason_2}} {{reason_3}}

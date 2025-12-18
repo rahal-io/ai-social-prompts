@@ -1,0 +1,18 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      title: string
+      feature1: string
+      feature2: string
+      feature3: string
+      link: string
+output:
+  format: text
+---
+{{title}} is published! 
+Get: 
+- {{feature1}} 
+- {{feature2}} 
+- {{feature3}}. 
+Start here. {{link}}

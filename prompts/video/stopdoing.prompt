@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      mistake: string
+      topic_teaching: string
+output:
+  format: text
+---
+Stop doing {{mistake}}, instead do {{topic_teaching}}

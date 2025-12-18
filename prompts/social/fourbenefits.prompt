@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      benefit_1: string
+      benefit_2: string
+      benefit_3: string
+      benefit_4: string
+output:
+  format: text
+---
+    Benefits of {{topic}}: {{benefit_1}} {{benefit_2}} {{benefit_3}} {{benefit_4}} Which is why {{topic}} is so valuable.

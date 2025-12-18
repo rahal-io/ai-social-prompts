@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      outcome_1: string
+      outcome_2: string
+      outcome_3: string
+      outcome_4: string
+output:
+  format: text
+---
+    If I had never started {{topic}}, I wouldn’t have: {{outcome_1}} {{outcome_2}} {{outcome_3}} {{outcome_4}} Start today—you won’t regret it.

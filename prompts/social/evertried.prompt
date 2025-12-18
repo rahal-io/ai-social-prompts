@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      result_they_ve_tried_to_get: string
+      content_eg_newsletter_or_podcast_episode_etc: string
+      link: string
+output:
+  format: text
+---
+If you've ever tried to {{result_they_ve_tried_to_get}}, but ended up in the same place... this week's {{content_eg_newsletter_or_podcast_episode_etc}} goes deeper on this topic 👇: {{link}}

@@ -1,0 +1,22 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      your_idea: string
+output:
+  format: text
+---
+Your task is to explore and expand {{your_idea}} through a detailed, step-by-step thought process.
+#Instruction###
+State the Idea: Clearly articulate the initial idea. If it involves a problem, state the problem. If it's a concept or a solution, describe it succinctly.
+Objectives and Goals: Define what you aim to achieve with {{your_idea}}. Be specific about the outcomes or improvements you are targeting.
+Break Down the Components: Identify and list the major components or aspects of {{your_idea}}. Describe each component in detail.
+Potential Challenges: For each component, consider possible challenges or obstacles that might arise. Discuss how these challenges could impact the overall viability of {{your_idea}}.
+Solutions and Strategies: Propose solutions or strategies to overcome the identified challenges. Include alternative approaches where applicable to provide flexibility.
+Implementation Steps: Outline a series of actionable steps for implementing {{your_idea}}. Ensure each step is clear and logical, building on the previous one.
+Evaluation: Describe how you would measure the success of {{your_idea}} once implemented. Consider what metrics or feedback would indicate success or areas needing adjustment.
+Reflection and Adaptation: Suggest methods for reflecting on and adapting {{your_idea}} based on hypothetical outcomes or feedback received. This could involve tweaking the approach, scaling components, or pivoting direction.
+#Expected Response Format###
+Detailed and Methodical: Provide a thorough analysis and development of each component of the idea.
+Sequential Layout: Structure the response to follow a logical sequence, ensuring that each part builds upon the last.
+Clear and Precise Language: Use clear and precise language to convey complex information effectively.

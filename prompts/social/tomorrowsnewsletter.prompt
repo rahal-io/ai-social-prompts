@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      content_eg_newsletter_podcast_episode: string
+      bigpromise: string
+      desiredoutcome: string
+output:
+  format: text
+---
+Tomorrow’s {{content_eg_newsletter_podcast_episode}} will be {{bigpromise}} for anyone who wants {{desiredoutcome}}. If you’re not on the list yet, let me know.

@@ -1,0 +1,25 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      didthisthingtoday: string
+      shortcontext: string
+      x: string
+      x_time: string
+      lesson1: string
+      lesson2: string
+      lesson3: string
+      lesson4: string
+      lesson5: string
+output:
+  format: text
+---
+{{didthisthingtoday}}
+{{shortcontext}}
+Here are {{x}} lessons I learned in {{x_time}}
+{{lesson1}}
+{{lesson2}}
+{{lesson3}}
+{{lesson4}}
+{{lesson5}}
+Hope that's helpful.

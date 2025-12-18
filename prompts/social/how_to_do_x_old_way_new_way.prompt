@@ -1,0 +1,26 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      thisthing: string
+      oldway1: string
+      oldway2: string
+      oldway3: string
+      newway1: string
+      newway2: string
+      newway3: string
+      new_way: string
+      old_way: string
+output:
+  format: text
+---
+How to do {{thisthing}}
+Old way:
+{{oldway1}}
+{{oldway2}}
+{{oldway3}}
+New way:
+{{newway1}}
+{{newway2}}
+{{newway3}}
+{{new_way}} > {{old_way}}

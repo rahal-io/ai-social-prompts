@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Section 1: Introduce the summit and how excited you are to be a speaker
+Section 2: Add what your talk is about and 3 key takeaways
+Section 3: talk about how you're excited to be alongside other industry experts
+Section 4: provide a call to action for them to sign up for the free summit below

@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      insert_brand_or_campaign_name: string
+      insert_tone_e_g_professional_fun_educational: string
+      insert_key_elements_like_logo_brand_colors_or_specific_imagery: string
+output:
+  format: text
+---
+Create a native template for a social media post that aligns with {{insert_brand_or_campaign_name}}. The post should be engaging and visually appealing, tailored to the platform (e.g., Instagram, Twitter, Facebook). The design should reflect {{insert_tone_e_g_professional_fun_educational}} and include {{insert_key_elements_like_logo_brand_colors_or_specific_imagery}}. The template should be flexible enough to accommodate text, images, and calls to action while maintaining consistency with the brand's identity.

@@ -1,0 +1,21 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      wrong_decision_1: string
+      wrong_decision_2: string
+      goal: string
+      question_1: string
+      question_2: string
+      question_3: string
+output:
+  format: text
+---
+Most people either:
+{{wrong_decision_1}} or {{wrong_decision_2}}.
+3 questions to ask when trying to {{goal}}:
+{{question_1}}
+{{question_2}}
+{{question_3}}
+If the answer is Yes to all 3 of these, it's worth doing.
+Otherwise, it's a shiny object worth avoiding.

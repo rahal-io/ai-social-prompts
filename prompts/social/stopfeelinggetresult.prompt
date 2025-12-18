@@ -1,0 +1,25 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      pain_ex_invisible_online: string
+      desired_result_1: string
+      desired_result_2: string
+      desired_result_3: string
+      contenttitle: string
+      feature_1: string
+      feature_2: string
+      feature_3: string
+      content_eg_youtube_video_podcast_newsletter: string
+output:
+  format: text
+---
+Stop feeling {{pain_ex_invisible_online}}. 
+Get {{desired_result_1}}.
+{{desired_result_2}}, 
+{{desired_result_3}}. 
+{{contenttitle}} 
+- {{feature_1}} 
+- {{feature_2}} 
+- {{feature_3}}. 
+Tune in to our latest {{content_eg_youtube_video_podcast_newsletter}} now.

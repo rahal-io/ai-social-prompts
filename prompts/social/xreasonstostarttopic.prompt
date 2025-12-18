@@ -1,0 +1,15 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      x: string
+      problem: string
+      topic: string
+      reason_1: string
+      reason_2: string
+      reason_3: string
+      reason_4: string
+output:
+  format: text
+---
+Here are {{x}} reasons why anyone struggling with {{problem}} should start {{topic}}: {{reason_1}} {{reason_2}} {{reason_3}} {{reason_4}} I firmly believe this.

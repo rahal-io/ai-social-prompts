@@ -1,0 +1,16 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      result_your_content_can_get: string
+      step_1: string
+      step_2: string
+      step_3: string
+      link: string
+output:
+  format: text
+---
+How to {{result_your_content_can_get}}:
+- {{step_1}} 
+- {{step_2}} 
+- {{step_3}}. Learn more here. {{link}}

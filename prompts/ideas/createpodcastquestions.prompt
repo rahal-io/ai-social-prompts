@@ -1,0 +1,39 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      your_idea_topic: string
+      specific_controversial_aspect_of_your_idea_topic: string
+      insert_common_criticism: string
+      related_trending_topic: string
+      current_event_or_trend: string
+output:
+  format: text
+---
+Your task is to develop a set of thought-provoking and engaging questions that explore {{your_idea_topic}} in depth, including its controversial and trending aspects.
+#Instruction###
+Background Questions:
+Can you give us a brief overview of {{your_idea_topic}}?
+How did you first become involved or interested in {{your_idea_topic}}?
+Deep Dive Questions:
+What are the core principles or innovations behind {{your_idea_topic}}?
+Can you explain a particular aspect of {{your_idea_topic}} that people often misunderstand?
+Controversial Questions:
+There has been some debate about {{specific_controversial_aspect_of_your_idea_topic}}. Where do you stand on this issue?
+How do you respond to critics who say {{insert_common_criticism}} about {{your_idea_topic}}?
+Trending Questions:
+ Given the recent news about {{related_trending_topic}}, how does this impact {{your_idea_topic}}?
+ What role do you see for {{your_idea_topic}} in light of {{current_event_or_trend}}?
+Impact and Future Questions:
+What has been the most surprising impact of {{your_idea_topic}}?
+Where do you see {{your_idea_topic}} going in the next five years?
+Personal Insight Questions:
+What has been your biggest challenge with {{your_idea_topic}}?
+What personal lessons have you learned from working on {{your_idea_topic}}?
+Audience Engagement Questions:
+For those interested in getting involved with or learning more about {{your_idea_topic}}, what resources would you recommend?
+How can our listeners support or engage with {{your_idea_topic}}?
+#Expected Response Format###
+Variety and Depth: Ensure the questions cover a variety of aspects, from introductory to complex, including personal insights.
+Engaging and Provocative: Craft questions that provoke thoughtful responses, especially with controversial or trending topics.
+Clear and Concise: Questions should be clear and to the point to avoid confusion and ensure they are easily understood by both the guest and the audience.

@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      bad_approach: string
+      good_approach: string
+output:
+  format: text
+---
+    How I used to {{topic}}: {{bad_approach}} {{bad_approach}} {{bad_approach}} How I do now: {{good_approach}} {{good_approach}} {{good_approach}}

@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Write a professional email to a customer introducing our product. Mention its key features, how it can benefit the customer, and why it stands out compared to other products in the market. Address the customer by their name, provide a friendly tone, and invite them to ask any questions or schedule a call for further information. Make sure to include a call-to-action (CTA), such as requesting a demo or offering a discount for first-time buyers. The email should be clear, concise, and persuasive, emphasizing how our product can solve the customer's problem or enhance their business.

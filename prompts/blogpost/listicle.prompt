@@ -1,0 +1,15 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a Listicle Post. Follow this template slowly, step-by-step:
+1. Write an introduction contextualizing your list
+2. Number the list and format each subhead as an H2 Tag
+3. Use parallel structure for list items and emphasize keywords
+4. Explain the order if and when necessary
+5. Address your reader like a real human
+6. Conclude with an invitation to engage, not a summary

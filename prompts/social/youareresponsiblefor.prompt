@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      career_identity: string
+      responsibility_1: string
+      responsibility_2: string
+      responsibility_3: string
+output:
+  format: text
+---
+As a {{career_identity}}, you are responsible for: {{responsibility_1}} {{responsibility_2}} {{responsibility_3}}. Anyone can learn these things. Follow the footsteps of those who’ve been there before you.

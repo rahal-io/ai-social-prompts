@@ -1,0 +1,17 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      title: string
+      benefit1: string
+      benefit2: string
+      benefit3: string
+output:
+  format: text
+---
+{{title}} is finally here! 
+Get: 
+- {{benefit1}} 
+- {{benefit2}} 
+- {{benefit3}}. 
+Let me/us know your biggest takeaway!

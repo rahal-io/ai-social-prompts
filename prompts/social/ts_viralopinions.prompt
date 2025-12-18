@@ -1,0 +1,70 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      numberofyears: string
+      x: string
+      strongopinion1: string
+      subtledistinction: string
+      clarifyingstatement: string
+      strongopinion2: string
+      clicheaction: string
+      failureexample1: string
+      failureexample2: string
+      failureexample3: string
+      undesirableoutcome: string
+      strongopinion3: string
+      negativestat1: string
+      negativestat2: string
+      negativestat3: string
+      strongopinion4: string
+      name: string
+      outcome: string
+      trap: string
+      step1: string
+      step2: string
+      step3: string
+      strongopinion5: string
+      unconventionalreason: string
+      differentoutcome: string
+      benefit1: string
+      benefit2: string
+      benefit3: string
+output:
+  format: text
+---
+{X} Controversial Opinions On {Topic} 99% Of The World Agrees With—But I Do Not
+I have been interested in {{topic}} for a long time.
+And over the past {{numberofyears}}, I have come across a lot of strong opinions about {{topic}} that, at first I agreed with, and then the more I learned and educated myself the more I disagreed with. Until eventually, I reached a point where I felt like the only reason these beliefs had become mainstream and commonly accepted was because “a lot of other people” agreed with them too.
+So, I have some controversial opinions I’d like to share on {{topic}} after {{x}} hours immersing myself in the subject:
+{{strongopinion1}}
+I’m not saying {{subtledistinction}}.
+I’m just saying {{clarifyingstatement}}.
+{{strongopinion2}}
+Contrary to popular belief, {{clicheaction}} is a myth.
+{{failureexample1}}
+{{failureexample2}}
+{{failureexample3}}
+{{clicheaction}} is a fast-track to {{undesirableoutcome}}.
+{{strongopinion3}}
+“Most people” do what “most people” do.
+Which leads to…
+{{negativestat1}}
+{{negativestat2}}
+{{negativestat3}}
+Clearly what “most people do” doesn’t work.
+So do something else.
+{{strongopinion4}}
+99% of the time, this is a giant mistake.
+Instead, {{name}} has a great framework for achieving {{outcome}} without falling into {{trap}}.
+{{step1}}
+{{step2}}
+{{step3}}
+{{strongopinion5}}
+Pursuing {{outcome}} is a silly goal.
+Because {{unconventionalreason}}.
+{{differentoutcome}} is a better pursuit in life.
+{{benefit1}}
+{{benefit2}}
+{{benefit3}}

@@ -1,0 +1,17 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      why: string
+      myth: string
+output:
+  format: text
+---
+I have been doing X for a long time.
+Over the years, I have learned that most people who want to achieve X end up failing because {{why}}. They think {{myth}}, and never realize Y is what's actually holding them back. To be honest, it took me quite a while to learn this lesson too.
+Here are some of the other reasons I've learned people fail at X:
+Reason #1: People fail because why?
+Reason #2: People fail because why?
+Reason #3: People fail because why?
+Overcoming failure is a crucial part of succeeding, moving forward, and making actionable progress.
+But don't worry: we've all been there.

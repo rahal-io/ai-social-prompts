@@ -1,0 +1,565 @@
+﻿reelsVideoHookPromptName,templateVideoHookPromptText,packagedTemplatePromptTextForAI
+challengeToOutcome,Here's how [challenge] lead to [outcome]...,"##Here's how [challenge] lead to [outcome]...
+
+"
+stopDoing,"Stop doing [mistake], instead do [topic teaching]","##Stop doing [mistake], instead do [topic teaching]
+
+"
+messedUp,Today I messed up [topic mistake],"##Today I messed up [topic mistake]
+
+"
+somethingCrazy,Something crazy just happened [topic crazy thing],"##Something crazy just happened [topic crazy thing]
+
+"
+weirdThing,Is it just me or does [topic weird/new thing],"##Is it just me or does [topic weird/new thing]
+
+"
+iBet,I bet you didn't know [topic announcement/weird thing/not well known thing],"##I bet you didn't know [topic announcement/weird thing/not well known thing]
+
+"
+ultimateGuide,Here's the ultimate guide to [topic] for [target audience],"##Here's the ultimate guide to [topic] for [target audience]
+
+"
+painPoint,"If you [pain point], listen up!","##If you [pain point], listen up!
+
+"
+wishIKnew,Things I wish I knew before [pain point],"##Things I wish I knew before [pain point]
+
+"
+whyNobody,Why is nobody talking about [topic little known thing].,"##Why is nobody talking about [topic little known thing].
+
+"
+painful,There is nothing more painful than [problem topic solves for].,"##There is nothing more painful than [problem topic solves for].
+
+"
+controversial,"This might be controversial, but [controversial take about topic].","##This might be controversial, but [controversial take about topic].
+
+"
+calledStupid,Somebody called me stupid [something about my take on the topic].,"##Somebody called me stupid [something about my take on the topic].
+
+"
+topicAudience,This is [topic] explained for [target audience].,"##This is [topic] explained for [target audience].
+
+"
+crazyThing,You won't believe this [crazy thing about topic/weird thing about topic/new thing about topic].,"##You won't believe this [crazy thing about topic/weird thing about topic/new thing about topic].
+
+"
+strugglingSolution,"If you're struggling to [solve pain point], then [hook for topic].","##If you're struggling to [solve pain point], then [hook for topic].
+
+"
+illegalToKnow,This feels illegal to know [valuable topic thing].,"##This feels illegal to know [valuable topic thing].
+
+"
+knewSooner,I wish I knew this sooner [thing about topic].,"##I wish I knew this sooner [thing about topic].
+
+"
+mindBlowingTopic,This [topic] will blow your mind.,"##This [topic] will blow your mind.
+
+"
+knowAboutTopic,What you need to know about [topic].,"##What you need to know about [topic].
+
+"
+regretNotSooner,My biggest regret is not trying this [topic] sooner.,"##My biggest regret is not trying this [topic] sooner.
+
+"
+loveActivity,I love going for a [activity].,"##I love going for a [activity].
+
+"
+bfOldTopicGone,My BF knew my old [topic] had to go.,"##My BF knew my old [topic] had to go.
+
+"
+productAmazement,How can [product name] be this good.,"##How can [product name] be this good.
+
+"
+activityLove,Love going for a [activity]?,"##Love going for a [activity]?
+
+"
+threeReasonsLove,3 reasons why I love the [product name] And why I just had to buy another!,"##3 reasons why I love the [product name] And why I just had to buy another!
+
+"
+cantBelieveWorks,I can't believe these work!,"##I can't believe these work!
+
+"
+onlyThingKnow,The only thing you need to know to [action] your [result].,"##The only thing you need to know to [action] your [result].
+
+"
+numberOneTopic,The number 1 [topic] for [result].,"##The number 1 [topic] for [result].
+
+"
+feelsIllegal,[Topic] that feels illegal to know.,"##[Topic] that feels illegal to know.
+
+"
+truthAboutTopic,The truth about [topic] on [platform].,"##The truth about [topic] on [platform].
+
+"
+knowTopicSecret,Did you know this [topic] (popular platform) secret?,"##Did you know this [topic] (popular platform) secret?
+
+"
+dontWantTopic,Don’t want to [controversial action]?,"##Don’t want to [controversial action]?
+
+"
+topMistakes,Top 3 mistakes you are making on/doing [topic].,"##Top 3 mistakes you are making on/doing [topic].
+
+"
+unbelievableTopic,[Topic] you won’t believe exist.,"##[Topic] you won’t believe exist.
+
+"
+lifeWithoutVsWith,My Life Without [topic] Vs. My Life With [topic].,"##My Life Without [topic] Vs. My Life With [topic].
+
+"
+noMoreGatekeeping,"We agreed, right? No more gatekeeping??","##We agreed, right? No more gatekeeping??
+
+"
+cantBelieveThis,You Won't Believe What This Is...,"##You Won't Believe What This Is...
+
+"
+blownAway,Blown away by [topic]! Here’s why...,"##Blown away by [topic]! Here’s why...
+
+"
+neverKnew,Never knew [topic] could be so [quality]!,"##Never knew [topic] could be so [quality]!
+
+"
+simpleTricks,Simple tricks to [action] your [result]!,"##Simple tricks to [action] your [result]!
+
+"
+instantLove,"The instant I tried [topic], I fell in love!","##The instant I tried [topic], I fell in love!
+
+"
+hiddenGems,Hidden gems of [topic] that you need!,"##Hidden gems of [topic] that you need!
+
+"
+gameChanger,Game changer: [topic] that revolutionizes [field]!,"##Game changer: [topic] that revolutionizes [field]!
+
+"
+saveTime,Save time by doing [topic] this way!,"##Save time by doing [topic] this way!
+
+"
+secretRevealed,Secret revealed: [topic] that you never thought about!,"##Secret revealed: [topic] that you never thought about!
+
+"
+lifeHacks,Life hacks: [topic] that makes life easier!,"##Life hacks: [topic] that makes life easier!
+
+"
+needThis,You absolutely need this [topic] in your life!,"##You absolutely need this [topic] in your life!
+
+"
+quickTips,Quick tips to enhance your [topic]!,"##Quick tips to enhance your [topic]!
+
+"
+whyItWorks,Why it works: the science behind [topic]!,"##Why it works: the science behind [topic]!
+
+"
+tryThis,Try this [topic] and see the difference!,"##Try this [topic] and see the difference!
+
+"
+mindsetShift,Mindset shift: [topic] that changes how you think!,"##Mindset shift: [topic] that changes how you think!
+
+"
+beforeAfter,Before and After: See the impact of [topic]!,"##Before and After: See the impact of [topic]!
+
+"
+trueOrFalse,True or False: [topic] that will surprise you!,"##True or False: [topic] that will surprise you!
+
+"
+canDoThis,You can do this [topic] right now!,"##You can do this [topic] right now!
+
+"
+timeSaver,Big time saver: [topic] that cuts down on [issue]!,"##Big time saver: [topic] that cuts down on [issue]!
+
+"
+easyPeasy,Easy peasy [topic] that anyone can do!,"##Easy peasy [topic] that anyone can do!
+
+"
+shockingResults,Shocking results from trying [topic]!,"##Shocking results from trying [topic]!
+
+"
+proTips,Pro tips for mastering [topic]!,"##Pro tips for mastering [topic]!
+
+"
+littleKnown,Little known ways to improve [topic].,"##Little known ways to improve [topic].
+
+"
+bestKeptSecret,Best kept secret in [topic]!,"##Best kept secret in [topic]!
+
+"
+lifeChanging,Life-changing benefits of [topic].,"##Life-changing benefits of [topic].
+
+"
+whatYouMissed,What you missed about [topic].,"##What you missed about [topic].
+
+"
+transformYourTopic,Transform your [topic] with these simple steps!,"##Transform your [topic] with these simple steps!
+
+"
+myFavThing,My favorite thing about [topic] is [thing].,"##My favorite thing about [topic] is [thing].
+
+"
+noRegrets,No regrets after trying [topic]!,"##No regrets after trying [topic]!
+
+"
+didYouKnow,Did you know this about [topic]?,"##Did you know this about [topic]?
+
+"
+underTheRadar,Under the radar: [topic] that you haven't heard of!,"##Under the radar: [topic] that you haven't heard of!
+
+"
+quickFix,Quick fix for your [topic] problem!,"##Quick fix for your [topic] problem!
+
+"
+overlookedTopic,Overlooked aspects of [topic] you should consider.,"##Overlooked aspects of [topic] you should consider.
+
+"
+sneakPeek,Sneak peek at the amazing [topic]!,"##Sneak peek at the amazing [topic]!
+
+"
+mustTry,Must try: [topic] that will change your life!,"##Must try: [topic] that will change your life!
+
+"
+howToStart,How to start with [topic].,"##How to start with [topic].
+
+"
+simpleYetEffective,Simple yet effective: [topic].,"##Simple yet effective: [topic].
+
+"
+fromZeroToHero,From zero to hero with [topic]!,"##From zero to hero with [topic]!
+
+"
+uncoverTheTruth,Uncover the truth about [topic].,"##Uncover the truth about [topic].
+
+"
+revolutionizeTopic,Revolutionize your approach to [topic].,"##Revolutionize your approach to [topic].
+
+"
+eyeOpening,Eye-opening facts about [topic].,"##Eye-opening facts about [topic].
+
+"
+surprisingFacts,Surprising facts about [topic].,"##Surprising facts about [topic].
+
+"
+unlockPotential,Unlock the potential of [topic].,"##Unlock the potential of [topic].
+
+"
+behindTheScenes,Behind the scenes: How [topic] is made.,"##Behind the scenes: How [topic] is made.
+
+"
+stepByStep,Step by step guide to [topic].,"##Step by step guide to [topic].
+
+"
+allYouNeed,All you need to know about [topic].,"##All you need to know about [topic].
+
+"
+whatsTheHype,What's the hype about [topic]?,"##What's the hype about [topic]?
+
+"
+essentialTips,Essential tips for using [topic].,"##Essential tips for using [topic].
+
+"
+fullReview,Full review: Does [topic] live up to the hype?,"##Full review: Does [topic] live up to the hype?
+
+"
+ultimateGuide,Ultimate guide to mastering [topic].,"##Ultimate guide to mastering [topic].
+
+"
+secretsUnveiled,Secrets unveiled: What you didn't know about [topic].,"##Secrets unveiled: What you didn't know about [topic].
+
+"
+worthIt,Is [topic] really worth it?,"##Is [topic] really worth it?
+
+"
+breakingDown,Breaking down the myths about [topic].,"##Breaking down the myths about [topic].
+
+"
+howItWorks,How it works: The mechanics of [topic].,"##How it works: The mechanics of [topic].
+
+"
+mythsBusted,Myths busted: The truth about [topic].,"##Myths busted: The truth about [topic].
+
+"
+dontMissOut,Don't miss out on [topic]!,"##Don't miss out on [topic]!
+
+"
+insiderInfo,Insider info: Tips on [topic].,"##Insider info: Tips on [topic].
+
+"
+lifeBeforeAfter,Life before and after [topic].,"##Life before and after [topic].
+
+"
+topReasons,Top reasons to love [topic].,"##Top reasons to love [topic].
+
+"
+howToChoose,How to choose the right [topic].,"##How to choose the right [topic].
+
+"
+expertsSay,Experts say this about [topic].,"##Experts say this about [topic].
+
+"
+whyChooseThis,Why choose this [topic] over others?,"##Why choose this [topic] over others?
+
+"
+nextBigThing,The next big thing in [topic]!,"##The next big thing in [topic]!
+
+"
+avoidMistakes,Avoid these common mistakes in [topic].,"##Avoid these common mistakes in [topic].
+
+"
+mustKnow,Must-know facts about [topic].,"##Must-know facts about [topic].
+
+"
+deepDive,Deep dive into [topic] and its benefits.,"##Deep dive into [topic] and its benefits.
+
+"
+firstImpressions,First impressions of [topic].,"##First impressions of [topic].
+
+"
+howToMaximize,How to maximize your results with [topic].,"##How to maximize your results with [topic].
+
+"
+betterThanEver,[Topic] is better than ever before!,"##[Topic] is better than ever before!
+
+"
+freshLook,A fresh look at [topic].,"##A fresh look at [topic].
+
+"
+whatChanged,What's changed in [topic] lately?,"##What's changed in [topic] lately?
+
+"
+comparison,Comparison: [topic1] vs. [topic2].,"##Comparison: [topic1] vs. [topic2].
+
+"
+canYouBelieve,Can you believe this about [topic]?,"##Can you believe this about [topic]?
+
+"
+hiddenFeatures,Hidden features of [topic] you should use.,"##Hidden features of [topic] you should use.
+
+"
+whatToExpect,What to expect when engaging with [topic].,"##What to expect when engaging with [topic].
+
+"
+newInTech,New in [topic] technology.,"##New in [topic] technology.
+
+"
+trendAlert,Trend alert: [topic] is gaining popularity!,"##Trend alert: [topic] is gaining popularity!
+
+"
+bestPractices,Best practices for using [topic].,"##Best practices for using [topic].
+
+"
+whyEveryoneLoves,Why everyone loves [topic].,"##Why everyone loves [topic].
+
+"
+howItHelps,How [topic] helps you achieve [result].,"##How [topic] helps you achieve [result].
+
+"
+beforeYouBuy,"Before you buy [topic], read this!","##Before you buy [topic], read this!
+
+"
+topPicks,Top picks for the best [topic].,"##Top picks for the best [topic].
+
+"
+howItStarted,How it started: the origin of [topic].,"##How it started: the origin of [topic].
+
+"
+futureOfTopic,The future of [topic]: what's next?,"##The future of [topic]: what's next?
+
+"
+yourGuideTo,Your guide to getting the most out of [topic].,"##Your guide to getting the most out of [topic].
+
+"
+overcomeChallenges,Overcome challenges in [topic].,"##Overcome challenges in [topic].
+
+"
+fromGoodToGreat,From good to great with [topic].,"##From good to great with [topic].
+
+"
+masteringBasics,Mastering the basics of [topic].,"##Mastering the basics of [topic].
+
+"
+beyondTheBasics,Beyond the basics: Advanced techniques in [topic].,"##Beyond the basics: Advanced techniques in [topic].
+
+"
+dailyRoutine,Daily routine with [topic].,"##Daily routine with [topic].
+
+"
+lifeEnhancer,[Topic] as a life enhancer.,"##[Topic] as a life enhancer.
+
+"
+personalExperience,Personal experience with [topic].,"##Personal experience with [topic].
+
+"
+unlockYourPotential,Unlock your potential with [topic].,"##Unlock your potential with [topic].
+
+"
+secretsToSuccess,Secrets to success with [topic].,"##Secrets to success with [topic].
+
+"
+innovationSpotlight,Innovation spotlight on [topic].,"##Innovation spotlight on [topic].
+
+"
+achievingGoals,Achieving goals with [topic].,"##Achieving goals with [topic].
+
+"
+streamlineProcesses,Streamline processes with [topic].,"##Streamline processes with [topic].
+
+"
+explorePossibilities,Explore possibilities with [topic].,"##Explore possibilities with [topic].
+
+"
+creativeApproaches,Creative approaches to [topic].,"##Creative approaches to [topic].
+
+"
+maximizeEfficiency,Maximize efficiency in [activity].,"##Maximize efficiency in [activity].
+
+"
+discoverBenefits,Discover the benefits of [topic].,"##Discover the benefits of [topic].
+
+"
+guideToSuccess,A guide to success with [topic].,"##A guide to success with [topic].
+
+"
+challengesAndSolutions,Challenges and solutions in [topic].,"##Challenges and solutions in [topic].
+
+"
+expandingHorizons,Expanding horizons with [topic].,"##Expanding horizons with [topic].
+
+"
+transformingIndustries,Transforming industries with [topic].,"##Transforming industries with [topic].
+
+"
+benchmarkingSuccess,Benchmarking success in [topic].,"##Benchmarking success in [topic].
+
+"
+navigatingComplexity,Navigating complexity in [topic].,"##Navigating complexity in [topic].
+
+"
+pioneeringInnovations,Pioneering innovations in [topic].,"##Pioneering innovations in [topic].
+
+"
+settingTrends,Setting trends with [topic].,"##Setting trends with [topic].
+
+"
+breakingBarriers,Breaking barriers in [topic].,"##Breaking barriers in [topic].
+
+"
+leadingTheWay,Leading the way in [topic].,"##Leading the way in [topic].
+
+"
+strategicInsights,Strategic insights into [topic].,"##Strategic insights into [topic].
+
+"
+unleashingPotential,Unleashing potential with [topic].,"##Unleashing potential with [topic].
+
+"
+revolutionizingTechniques,Revolutionizing techniques in [topic].,"##Revolutionizing techniques in [topic].
+
+"
+shapingFutures,Shaping futures with [topic].,"##Shaping futures with [topic].
+
+"
+cultivatingExcellence,Cultivating excellence in [topic].,"##Cultivating excellence in [topic].
+
+"
+empoweringChange,Empowering change through [topic].,"##Empowering change through [topic].
+
+"
+harnessingTechnology,Harnessing technology for [topic].,"##Harnessing technology for [topic].
+
+"
+inspiringStories,Inspiring stories about [topic].,"##Inspiring stories about [topic].
+
+"
+overcomingObstacles,Overcoming obstacles with [topic].,"##Overcoming obstacles with [topic].
+
+"
+pushingBoundaries,Pushing boundaries in [topic].,"##Pushing boundaries in [topic].
+
+"
+acceleratingInnovation,Accelerating innovation in [topic].,"##Accelerating innovation in [topic].
+
+"
+enhancingPerformance,Enhancing performance with [topic].,"##Enhancing performance with [topic].
+
+"
+trailblazingTrends,Trailblazing trends in [topic].,"##Trailblazing trends in [topic].
+
+"
+definingStandards,Defining standards for [topic].,"##Defining standards for [topic].
+
+"
+advancingKnowledge,Advancing knowledge on [topic].,"##Advancing knowledge on [topic].
+
+"
+redefiningProcesses,Redefining processes through [topic].,"##Redefining processes through [topic].
+
+"
+emergingTrends,Emerging trends in [topic].,"##Emerging trends in [topic].
+
+"
+insightsIntoGrowth,Insights into growth with [topic].,"##Insights into growth with [topic].
+
+"
+leadingEdgeTechniques,Leading-edge techniques in [topic].,"##Leading-edge techniques in [topic].
+
+"
+pushingInnovation,Pushing innovation with [topic].,"##Pushing innovation with [topic].
+
+"
+secretsOfEfficiency,Secrets of efficiency in [topic].,"##Secrets of efficiency in [topic].
+
+"
+revolutionizingApproaches,Revolutionizing approaches to [topic].,"##Revolutionizing approaches to [topic].
+
+"
+beyondExpectations,Going beyond expectations with [topic].,"##Going beyond expectations with [topic].
+
+"
+topStrategies,Top strategies for mastering [topic].,"##Top strategies for mastering [topic].
+
+"
+makingADifference,Making a difference with [topic].,"##Making a difference with [topic].
+
+"
+innovativeSolutions,Innovative solutions in [topic].,"##Innovative solutions in [topic].
+
+"
+breakingNewGround,Breaking new ground with [topic].,"##Breaking new ground with [topic].
+
+"
+exploringNewDimensions,Exploring new dimensions in [topic].,"##Exploring new dimensions in [topic].
+
+"
+pioneeringStrategies,Pioneering strategies for [topic].,"##Pioneering strategies for [topic].
+
+"
+shapingInnovativePaths,Shaping innovative paths in [topic].,"##Shaping innovative paths in [topic].
+
+"
+unveilingNewTechniques,Unveiling new techniques for [topic].,"##Unveiling new techniques for [topic].
+
+"
+transformativeMethods,Transformative methods in [topic].,"##Transformative methods in [topic].
+
+"
+advancingIndustryStandards,Advancing industry standards with [topic].,"##Advancing industry standards with [topic].
+
+"
+cuttingEdgeDevelopments,Cutting-edge developments in [topic].,"##Cutting-edge developments in [topic].
+
+"
+leadingInnovations,Leading innovations in [topic].,"##Leading innovations in [topic].
+
+"
+trailblazingSolutions,Trailblazing solutions for [topic].,"##Trailblazing solutions for [topic].
+
+"
+exploringPotentials,Exploring potentials with [topic].,"##Exploring potentials with [topic].
+
+"
+settingBenchmarks,Setting benchmarks in [topic].,"##Setting benchmarks in [topic].
+
+"
+definingFutureTrends,Defining future trends for [topic].,"##Defining future trends for [topic].
+
+"
+leadingTransformations,Leading transformations in [topic].,"##Leading transformations in [topic].
+
+"

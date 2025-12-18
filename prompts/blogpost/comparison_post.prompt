@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a Comparison Post. Follow this template methodically: 1. Identify two or more subjects to compare. 2. Establish criteria for comparison. 3. Use a balanced approach to detail similarities and differences. 4. Provide examples to illustrate points. 5. Use charts or tables for visual comparison. 6. Conclude with a summary of findings and personal recommendations.

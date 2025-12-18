@@ -1,0 +1,60 @@
+﻿blogpostTemplateName,blogpostPromptTemplate,packagedPromptTemplateIdeas
+How To Guide,"Your task is to write a How-to Guide. Follow this template slowly, step-by-step:
+1. Understand your target audience.
+2. Research your topic thoroughly.
+3. Create a step-by-step outline.
+4. Add useful images, videos, and descriptions.
+5. Mention where to add screenshots as you go.
+6. Review your outline and research from the reader's point of view.
+7. Link to other resources.
+
+
+","##Your task is to write a How-to Guide. Follow this template slowly, step-by-step:
+1. Understand your target audience.
+2. Research your topic thoroughly.
+3. Create a step-by-step outline.
+4. Add useful images, videos, and descriptions.
+5. Mention where to add screenshots as you go.
+6. Review your outline and research from the reader's point of view.
+7. Link to other resources.
+
+
+
+
+"
+Listicle,"Your task is to write a Listicle Post. Follow this template slowly, step-by-step:
+1. Write an introduction contextualizing your list
+2. Number the list and format each subhead as an H2 Tag
+3. Use parallel structure for list items and emphasize keywords
+4. Explain the order if and when necessary
+5. Address your reader like a real human
+6. Conclude with an invitation to engage, not a summary","##Your task is to write a Listicle Post. Follow this template slowly, step-by-step:
+1. Write an introduction contextualizing your list
+2. Number the list and format each subhead as an H2 Tag
+3. Use parallel structure for list items and emphasize keywords
+4. Explain the order if and when necessary
+5. Address your reader like a real human
+6. Conclude with an invitation to engage, not a summary
+
+"
+Comparison Post,Your task is to write a Comparison Post. Follow this template methodically: 1. Identify two or more subjects to compare. 2. Establish criteria for comparison. 3. Use a balanced approach to detail similarities and differences. 4. Provide examples to illustrate points. 5. Use charts or tables for visual comparison. 6. Conclude with a summary of findings and personal recommendations.,"##Your task is to write a Comparison Post. Follow this template methodically: 1. Identify two or more subjects to compare. 2. Establish criteria for comparison. 3. Use a balanced approach to detail similarities and differences. 4. Provide examples to illustrate points. 5. Use charts or tables for visual comparison. 6. Conclude with a summary of findings and personal recommendations.
+
+"
+Checklist / Cheat Sheet,"Your task is to write a Checklist or Cheat Sheet. Follow this template methodically: 1. Determine the process or task for your checklist. 2. Break it down into clear, actionable steps. 3. Organize the steps logically. 4. Use checkboxes for each item. 5. Provide tips or shortcuts for complex steps. 6. Conclude with encouragement to use the checklist to streamline processes.","##Your task is to write a Checklist or Cheat Sheet. Follow this template methodically: 1. Determine the process or task for your checklist. 2. Break it down into clear, actionable steps. 3. Organize the steps logically. 4. Use checkboxes for each item. 5. Provide tips or shortcuts for complex steps. 6. Conclude with encouragement to use the checklist to streamline processes.
+
+"
+Newsworthy Article,Your task is to write a Newsworthy Article. Follow this template attentively: 1. Identify a current and relevant event or trend. 2. Start with a compelling lead that summarizes the story. 3. Provide background information early on. 4. Include quotes from reliable sources. 5. Offer factual information with timely updates. 6. End with a look at potential future developments.,"##Your task is to write a Newsworthy Article. Follow this template attentively: 1. Identify a current and relevant event or trend. 2. Start with a compelling lead that summarizes the story. 3. Provide background information early on. 4. Include quotes from reliable sources. 5. Offer factual information with timely updates. 6. End with a look at potential future developments.
+
+"
+Personal Story Article,Your task is to write a Personal Story Article. Follow this template with care: 1. Choose a significant personal experience. 2. Start with an engaging hook that relates to your main theme. 3. Include sensory details to make the story vivid. 4. Share your thoughts and emotions during the story. 5. Reflect on the impact of the experience. 6. End with a lesson learned or a call to action.,"##Your task is to write a Personal Story Article. Follow this template with care: 1. Choose a significant personal experience. 2. Start with an engaging hook that relates to your main theme. 3. Include sensory details to make the story vivid. 4. Share your thoughts and emotions during the story. 5. Reflect on the impact of the experience. 6. End with a lesson learned or a call to action.
+
+"
+Case Study,Your task is to write a Case Study. Follow this template thoroughly: 1. Describe the subject of the case study and their challenge. 2. Outline the solutions considered or applied. 3. Detail the implementation process and steps taken. 4. Analyze the outcomes and results. 5. Use data and visuals to support your analysis. 6. Conclude with key takeaways and implications for the reader.,"##Your task is to write a Case Study. Follow this template thoroughly: 1. Describe the subject of the case study and their challenge. 2. Outline the solutions considered or applied. 3. Detail the implementation process and steps taken. 4. Analyze the outcomes and results. 5. Use data and visuals to support your analysis. 6. Conclude with key takeaways and implications for the reader.
+
+"
+Data Study,"Your task is to write a Data Study Post. Follow this template precisely: 1. Define the hypothesis or question driving the study. 2. Describe the methodology and data sources used. 3. Present findings with clear, concise charts and graphs. 4. Discuss the implications of the data. 5. Highlight any limitations of the study. 6. Summarize key insights and propose further areas for research.","##Your task is to write a Data Study Post. Follow this template precisely: 1. Define the hypothesis or question driving the study. 2. Describe the methodology and data sources used. 3. Present findings with clear, concise charts and graphs. 4. Discuss the implications of the data. 5. Highlight any limitations of the study. 6. Summarize key insights and propose further areas for research.
+
+"
+Curated Post,Your task is to write a Curated Post. Follow this template systematically: 1. Choose a theme or topic that aligns with your audience's interests. 2. Gather content from various sources. 3. Organize the content into thematic sections. 4. Provide your commentary or insight on each piece. 5. Credit all sources appropriately. 6. Conclude with an overview of the curated content and its relevance to the reader.,"##Your task is to write a Curated Post. Follow this template systematically: 1. Choose a theme or topic that aligns with your audience's interests. 2. Gather content from various sources. 3. Organize the content into thematic sections. 4. Provide your commentary or insight on each piece. 5. Credit all sources appropriately. 6. Conclude with an overview of the curated content and its relevance to the reader.
+
+"

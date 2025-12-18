@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a Data Study Post. Follow this template precisely: 1. Define the hypothesis or question driving the study. 2. Describe the methodology and data sources used. 3. Present findings with clear, concise charts and graphs. 4. Discuss the implications of the data. 5. Highlight any limitations of the study. 6. Summarize key insights and propose further areas for research.

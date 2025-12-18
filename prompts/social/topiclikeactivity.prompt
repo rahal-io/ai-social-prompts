@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      life_activity: string
+      witty_observation: string
+output:
+  format: text
+---
+    {{topic}} is a lot like {{life_activity}}: {{witty_observation}} {{witty_observation}} {{witty_observation}} Probably why doing {{topic}} teaches you so much about yourself, too.

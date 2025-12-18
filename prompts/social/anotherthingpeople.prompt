@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic_well: string
+      realization: string
+      reason_why: string
+output:
+  format: text
+---
+    Another thing I’ve realized about people who {{topic_well}}: {{realization}} {{reason_why}}

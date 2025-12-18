@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      x: string
+      topic: string
+      challenge_1: string
+      challenge_2: string
+      challenge_3: string
+output:
+  format: text
+---
+ {{x}} challenges you will experience when trying to {{topic}}: {{challenge_1}} {{challenge_2}} {{challenge_3}} But, overcome these and you win.

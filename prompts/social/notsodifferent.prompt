@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      idea_concept_1: string
+      idea_concept_2: string
+output:
+  format: text
+---
+{{idea_concept_1}} and {{idea_concept_2}} are not so different from each other. The principles are similar. If you learn {{idea_concept_1}}, you can easily learn {{idea_concept_2}}. Learn {{idea_concept_1}} here."

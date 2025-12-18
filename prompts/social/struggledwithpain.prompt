@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      pain: string
+      main_promise_of_your_content: string
+      link: string
+output:
+  format: text
+---
+If you've struggled with {{pain}} and you're looking for a simple way to {{main_promise_of_your_content}}... Click here. {{link}}

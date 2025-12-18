@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      result_your_product_can_get_eg_write_an_ebook: string
+      number: string
+      get_desired_result: string
+      link: string
+output:
+  format: text
+---
+The best time to {{result_your_product_can_get_eg_write_an_ebook}} was {{number}} months ago. The second best time is today. Read my latest newsletter for the ultimate “how-to” guide and {{get_desired_result}}. I lay out everything you need to know to start right away. {{link}}

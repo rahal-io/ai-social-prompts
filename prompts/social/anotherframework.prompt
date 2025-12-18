@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic_problem: string
+      step_1: string
+      step_2: string
+      step_3: string
+      step_4: string
+output:
+  format: text
+---
+    Another great framework for solving {{topic_problem}} quickly: {{step_1}} {{step_2}} {{step_3}} {{step_4}} Works every time.

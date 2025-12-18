@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      solve_pain_point: string
+      hook_for_topic: string
+output:
+  format: text
+---
+If you're struggling to {{solve_pain_point}}, then {{hook_for_topic}}.

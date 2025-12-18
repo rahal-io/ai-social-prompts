@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      proven_tip: string
+      reason: string
+output:
+  format: text
+---
+    Another good {{topic}} tip: {{proven_tip}}. Here’s why: {{reason}}. Works every time.

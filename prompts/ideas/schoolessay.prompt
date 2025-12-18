@@ -1,0 +1,25 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+output:
+  format: text
+---
+Your task is to develop a structured and well-argued essay on {{topic}} referenced previously.
+#Instructions###
+Introduction: Begin with a clear thesis statement that presents your main argument or position on {{topic}}. Briefly outline the points that you will discuss in the essay.
+Body Paragraphs:
+Point One: Start with your strongest point or most compelling evidence. Explain how this supports your thesis.
+Point Two: Continue with additional arguments or evidence, ensuring each point logically builds on the last and ties back to your thesis.
+Point Three: Offer further analysis or discuss alternative perspectives, and explain how these reinforce your thesis statement.
+Examples and Evidence: For each point, include specific examples, details, or data that support your arguments. These can be from credible sources, case studies, or personal observations.
+Counterarguments: Acknowledge potential counterarguments or opposing views. Provide a reasoned response to these views, strengthening your own position.
+Conclusion:
+Summarize Key Points: Recap the main arguments you've made in the essay without introducing new information.
+Restate Thesis: Clearly restate your thesis in a way that reflects the arguments you've made.
+Call to Action or Reflection: End with a call to action, a question for further study, or a personal reflection to leave the reader thinking about {{topic}}.
+#Expected Response Format###
+Structured and Organized: The essay should have a clear introduction, body, and conclusion.
+Cohesive: Use transitions between paragraphs to maintain flow and coherency.
+Formal Tone: Maintain a formal and academic tone throughout the essay.

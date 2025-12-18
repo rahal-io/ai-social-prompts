@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a Checklist or Cheat Sheet. Follow this template methodically: 1. Determine the process or task for your checklist. 2. Break it down into clear, actionable steps. 3. Organize the steps logically. 4. Use checkboxes for each item. 5. Provide tips or shortcuts for complex steps. 6. Conclude with encouragement to use the checklist to streamline processes.

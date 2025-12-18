@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      step_1: string
+      step_2: string
+      step_3: string
+      step_4: string
+output:
+  format: text
+---
+    Timeless formula for {{topic}} success: Do {{step_1}} Then do {{step_2}} Then {{step_3}} After, {{step_4}} These 4 steps have worked for generations. Good chance they’ll work for you too.

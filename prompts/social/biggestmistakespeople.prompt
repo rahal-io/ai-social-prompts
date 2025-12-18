@@ -1,0 +1,16 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      x: string
+      topic_people: string
+      mistake_1: string
+      mistake_2: string
+      mistake_3: string
+      easy_solution_1: string
+      easy_solution_2: string
+      easy_solution_3: string
+output:
+  format: text
+---
+    The {{x}} biggest mistakes {{topic_people}} make: {{mistake_1}} {{mistake_2}} {{mistake_3}} Let’s fix them: {{easy_solution_1}} {{easy_solution_2}} {{easy_solution_3}}

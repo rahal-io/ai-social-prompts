@@ -1,0 +1,21 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      your_idea_topic: string
+output:
+  format: text
+---
+Your task is to stimulate creativity and find new angles to explore {{your_idea_topic}} that help overcome writer's block.
+#Instruction###
+Mind Mapping: Start by creating a mind map of {{your_idea_topic}}. Jot down everything related to the topic, including related sub-topics, questions, and potential answers. This visual organization can help you see connections you hadn't considered before.
+Different Perspectives: Write about {{your_idea_topic}} from the perspective of someone else. It could be a child, a senior, an expert in a different field, or even a fictional character. This shift can uncover fresh insights and rejuvenate interest in your topic.
+Prompt Questions: Answer specific, guided questions about your topic:
+What excites you most about {{your_idea_topic}}?
+What is the most challenging aspect of {{your_idea_topic}}?
+How would you explain {{your_idea_topic}} to someone with no prior knowledge of it?
+What are the potential future trends related to {{your_idea_topic}}?
+#Expected Response Format###
+Diverse and Creative: The responses should reflect a variety of angles and perspectives.
+Insightful and Reflective: Your writing should reveal new insights or rediscover passion for the topic.
+Motivational: The exercise should motivate continued writing and exploration of {{your_idea_topic}}.

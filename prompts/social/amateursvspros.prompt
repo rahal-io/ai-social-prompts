@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      amateur_approach: string
+      pro_approach: string
+output:
+  format: text
+---
+    How amateurs {{topic}} {{amateur_approach}} {{amateur_approach}} {{amateur_approach}} How the pros do it {{pro_approach}} {{pro_approach}} {{pro_approach}}

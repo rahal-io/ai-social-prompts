@@ -1,0 +1,26 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      your_idea_topic: string
+output:
+  format: text
+---
+Your task is to create an engaging and informative newsletter centered around {{your_idea_topic}}.
+#Instruction###
+Introduction Section: Start with a brief introduction that captures the essence of {{your_idea_topic}}. Explain the purpose of the newsletter and what readers can expect to gain from it.
+Main Content Sections:
+Feature Article: Outline a feature article that provides an in-depth look at the central aspect of {{your_idea_topic}}. Detail what key points will be covered.
+Interview or Expert Insight: Plan an interview section with an expert or influencer who can offer valuable insights related to {{your_idea_topic}}. List potential questions or topics of discussion.
+Case Studies or Success Stories: Include one or two short stories or case studies that demonstrate the practical application or success of {{your_idea_topic}}.
+Data or Research Highlights: Summarize any relevant data, research findings, or statistics that bolster the credibility and understanding of {{your_idea_topic}}.
+Supporting Content:
+Tips and Tricks: Provide actionable tips or advice related to {{your_idea_topic}}.
+Upcoming Events: Mention any upcoming events, webinars, or workshops that are relevant to {{your_idea_topic}}.
+Resources Section: List books, articles, websites, or other resources for readers who want to explore {{your_idea_topic}} in more detail.
+Call to Action: Include a call to action encouraging readers to engage further with {{your_idea_topic}}. This could be signing up for a webinar, joining a community discussion, or following your organization on social media.
+Closing Remarks: End with a brief conclusion that reinforces the value of the newsletter and thanks readers for their time.
+#Expected Response Format###
+Organized and Structured: The outline should be well-organized, with clear headings and subheadings for each section.
+Concise Descriptions: Each section should include a concise description of what will be covered, keeping the reader's interest in mind.
+Engaging Tone: Maintain an engaging and inviting tone throughout the outline to encourage readership and interaction.

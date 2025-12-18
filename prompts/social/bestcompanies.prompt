@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      company_1: string
+      company_2: string
+      company_3: string
+output:
+  format: text
+---
+The best {{topic}} companies of all time: {{company_1}} {{company_2}} {{company_3}} Everyone should study their origin stories.

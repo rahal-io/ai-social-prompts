@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      contenttopic: string
+      current_situation: string
+      desired_outcome: string
+      link: string
+output:
+  format: text
+---
+{{contenttopic}} is the roadmap to go from {{current_situation}} to {{desired_outcome}}. If you want to gain clarity about {{desired_outcome}}, then click the link 👇.{{link}}

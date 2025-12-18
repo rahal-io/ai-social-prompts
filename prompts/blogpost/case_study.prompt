@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a Case Study. Follow this template thoroughly: 1. Describe the subject of the case study and their challenge. 2. Outline the solutions considered or applied. 3. Detail the implementation process and steps taken. 4. Analyze the outcomes and results. 5. Use data and visuals to support your analysis. 6. Conclude with key takeaways and implications for the reader.

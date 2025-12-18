@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      good_trait: string
+      bad_trait: string
+output:
+  format: text
+---
+    Good {{topic}} {{good_trait}} {{good_trait}} {{good_trait}} Bad {{topic}} {{bad_trait}} {{bad_trait}} {{bad_trait}}

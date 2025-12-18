@@ -1,0 +1,14 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      x: string
+      lesson_1: string
+      lesson_2: string
+      lesson_3: string
+      lesson_4: string
+output:
+  format: text
+---
+Unforgettable lessons after doing {{topic}} for {{x}} years: {{lesson_1}} {{lesson_2}} {{lesson_3}} {{lesson_4}} Learning these changed my life.

@@ -1,0 +1,16 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+    text?: string
+output:
+  format: text
+---
+Your task is to write a How-to Guide. Follow this template slowly, step-by-step:
+1. Understand your target audience.
+2. Research your topic thoroughly.
+3. Create a step-by-step outline.
+4. Add useful images, videos, and descriptions.
+5. Mention where to add screenshots as you go.
+6. Review your outline and research from the reader's point of view.
+7. Link to other resources.

@@ -1,0 +1,19 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      list_3_positive_outcomes: string
+      what_is_it_and_why_do_you_believe_it_s_so_important: string
+output:
+  format: text
+---
+5 Reasons Everyone Should X
+I'm a big believer that X has the power to change your life.
+I've been doing X for Y years, and since that time I have {{list_3_positive_outcomes}}. Doing X has also helped me find my community of people, make new friends, and improve myself in ways I otherwise never would have. I recommend everyone start doing X.
+And I have 5 specific reasons why:
+Reason #1: {{what_is_it_and_why_do_you_believe_it_s_so_important}}
+Reason #2: {{what_is_it_and_why_do_you_believe_it_s_so_important}}
+Reason #3: {{what_is_it_and_why_do_you_believe_it_s_so_important}}
+Reason #4: {{what_is_it_and_why_do_you_believe_it_s_so_important}}
+Reason #5: {{what_is_it_and_why_do_you_believe_it_s_so_important}}
+If you start doing X, let me know—I'd love to connect with you (and answer any questions you have getting started!).

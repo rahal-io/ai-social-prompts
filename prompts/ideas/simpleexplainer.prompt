@@ -1,0 +1,18 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+output:
+  format: text
+---
+Your task is to provide a clear and straightforward explanation of the topic you referenced above, that is easy to understand.
+#Instruction###
+Define the Topic: Start by defining {{topic}} in one or two sentences. Use simple language and avoid technical jargon.
+Key Components: Break down the topic into 2-3 key components or concepts that are essential for understanding the whole.
+Significance: Explain why {{topic}} is important. Mention its relevance in daily life, its impact on related fields, or its value in a specific context.
+Common Misunderstandings: Address any common misconceptions or errors that people might have about {{topic}}.
+#Expected Response Format###
+Concise: Keep the explanation brief but comprehensive.
+Accessible Language: Use language that can be easily understood by someone with no prior knowledge of the topic.
+Engaging: Make the explanation engaging by relating it to real-life applications or interesting facts.

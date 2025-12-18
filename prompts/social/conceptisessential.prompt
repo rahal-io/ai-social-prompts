@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      idea_concept: string
+      what_is_it_essential_for: string
+      field: string
+output:
+  format: text
+---
+{{idea_concept}} is essential for {{what_is_it_essential_for}}. If you lack {{idea_concept}} skills, you’ll never get ahead in {{field}}. Address this knowledge gap. Start here.

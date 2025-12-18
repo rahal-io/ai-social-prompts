@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      controversial_take_about_topic: string
+output:
+  format: text
+---
+This might be controversial, but {{controversial_take_about_topic}}.

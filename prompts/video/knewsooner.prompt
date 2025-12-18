@@ -1,0 +1,9 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      thing_about_topic: string
+output:
+  format: text
+---
+I wish I knew this sooner {{thing_about_topic}}.

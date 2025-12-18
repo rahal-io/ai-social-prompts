@@ -1,0 +1,19 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      number: string
+      desired_outcome: string
+      key1: string
+      key2: string
+      key3: string
+      content_piece_eg_newsletter_youtube_video_podcast: string
+      title: string
+output:
+  format: text
+---
+{{number}} Keys to get {{desired_outcome}}: 
+- {{key1}} 
+- {{key2}} 
+- {{key3}}. 
+I’ll/We’ll talk about this in the next {{content_piece_eg_newsletter_youtube_video_podcast}}, {{title}}.

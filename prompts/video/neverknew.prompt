@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      quality: string
+output:
+  format: text
+---
+Never knew {{topic}} could be so {{quality}}!

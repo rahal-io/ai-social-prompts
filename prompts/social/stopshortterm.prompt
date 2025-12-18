@@ -1,0 +1,10 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      short_term_outcome: string
+      action_step: string
+output:
+  format: text
+---
+    Stop trying to: {{short_term_outcome}} {{short_term_outcome}} {{short_term_outcome}}. Instead, just focus on {{action_step}}. The rest will take care of itself.

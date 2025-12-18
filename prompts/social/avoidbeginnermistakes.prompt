@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      mistake_1: string
+      mistake_2: string
+      mistake_3: string
+      mistake_4: string
+output:
+  format: text
+---
+Avoid these mistakes as a beginner {{topic}}: {{mistake_1}} {{mistake_2}} {{mistake_3}} {{mistake_4}} You’ll save yourself so many headaches.

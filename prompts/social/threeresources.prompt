@@ -1,0 +1,13 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      topic: string
+      resource: string
+      reason_1: string
+      reason_2: string
+      reason_3: string
+output:
+  format: text
+---
+    If you’re interested in {{topic}}, here’s another helpful resource I recommend checking out: {{resource}}. {{reason_1}} {{reason_2}} {{reason_3}} Bookmark it.

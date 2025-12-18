@@ -1,0 +1,12 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      contenttopic: string
+      desired_outcome_eg_create_a_website_in_24_hours: string
+      desired_outcome: string
+      link: string
+output:
+  format: text
+---
+Use {{contenttopic}} to: - {{desired_outcome_eg_create_a_website_in_24_hours}} - {{desired_outcome}} - {{desired_outcome}}. Get it today. {{link}}

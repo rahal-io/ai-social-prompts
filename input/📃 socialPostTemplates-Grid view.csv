@@ -1,0 +1,751 @@
+﻿SocialPromptName,templatePromptText,packagedTemplatePromptTextForAI,socialPostType
+tomorrowsNewsletter,"Tomorrow’s [content eg. newsletter, podcast episode] will be [BigPromise] for anyone who wants [DesiredOutcome]. If you’re not on the list yet, let me know.","##Tomorrow’s [content eg. newsletter, podcast episode] will be [BigPromise] for anyone who wants [DesiredOutcome]. If you’re not on the list yet, let me know.
+
+",hype
+everTried,"If you've ever tried to [result they've tried to get], but ended up in the same place... this week's [content eg. newsletter or podcast episode, etc] goes deeper on this topic 👇: [Link]","##If you've ever tried to [result they've tried to get], but ended up in the same place... this week's [content eg. newsletter or podcast episode, etc] goes deeper on this topic 👇: [Link]
+
+",painPoints
+threeThingsResult,"You need [Number of things] things to [desired result]. 
+The first is [thing 1]. 
+The second is [thing 2]. 
+And the third [thing 3]. 
+If you have those, then [desired outcome] is fully attainable.","##You need [Number of things] things to [desired result]. 
+The first is [thing 1]. 
+The second is [thing 2]. 
+And the third [thing 3]. 
+If you have those, then [desired outcome] is fully attainable.
+
+",miscellaneous
+90%ofX,"90% of [Outcome] is really just:
+[Simple Habit #1].
+[Simple Habit #2].
+[Simple Habit #3].
+The little stuff that makes all the difference.","##90% of [Outcome] is really just:
+[Simple Habit #1].
+[Simple Habit #2].
+[Simple Habit #3].
+The little stuff that makes all the difference.
+
+",leanWriting
+Lessons on thing I did today,"[DidThisThingToday]
+[ShortContext]
+Here are [X] lessons I learned in [X Time]
+[Lesson1]
+[Lesson2]
+[Lesson3]
+[Lesson4]
+[Lesson5]
+Hope that's helpful.","##[DidThisThingToday]
+[ShortContext]
+Here are [X] lessons I learned in [X Time]
+[Lesson1]
+[Lesson2]
+[Lesson3]
+[Lesson4]
+[Lesson5]
+Hope that's helpful.
+
+",eduContent
+desiredOutcomeHard,"[Desired outcome] doesn't have to be hard. In my next [content piece eg. newsletter, youtube video, podcast], [Title], you'll see how simple it is to [Desired Outcome].","##[Desired outcome] doesn't have to be hard. In my next [content piece eg. newsletter, youtube video, podcast], [Title], you'll see how simple it is to [Desired Outcome].
+
+",hype
+fromCurrentToDesired,"Going from [current situation] to [Desired Outcome] is easy when you have the right [system/method/framework/idea]. I’ll talk about it in the next [content piece eg. newsletter, youtube video, podcast], [Title], which will be launching soon.","##Going from [current situation] to [Desired Outcome] is easy when you have the right [system/method/framework/idea]. I’ll talk about it in the next [content piece eg. newsletter, youtube video, podcast], [Title], which will be launching soon.
+
+",hype
+numberOfKeysToDesire,"[Number] Keys to get [Desired outcome]: 
+- [Key1] 
+- [Key2] 
+- [Key3]. 
+I’ll/We’ll talk about this in the next [content piece eg. newsletter, youtube video, podcast], [Title].","##[Number] Keys to get [Desired outcome]: 
+- [Key1] 
+- [Key2] 
+- [Key3]. 
+I’ll/We’ll talk about this in the next [content piece eg. newsletter, youtube video, podcast], [Title].
+
+",hype
+titleContentFeature,"[Title] is published! 
+Get: 
+- [Feature1] 
+- [Feature2] 
+- [Feature3]. 
+Start here. [Link]","##[Title] is published! 
+Get: 
+- [Feature1] 
+- [Feature2] 
+- [Feature3]. 
+Start here. [Link]
+
+",hype
+finallyHere,"[Title] is finally here! 
+Get: 
+- [Benefit1] 
+- [Benefit2] 
+- [Benefit3]. 
+Let me/us know your biggest takeaway!","##[Title] is finally here! 
+Get: 
+- [Benefit1] 
+- [Benefit2] 
+- [Benefit3]. 
+Let me/us know your biggest takeaway!
+
+",hype
+resultsInThreeSteps,"How to [result your content can get]:
+- [Step 1] 
+- [Step 2] 
+- [Step 3]. Learn more here. [Link]","##How to [result your content can get]:
+- [Step 1] 
+- [Step 2] 
+- [Step 3]. Learn more here. [Link]
+
+",miscellaneous
+threeReasonsILove,"Top 3 reasons I love about [Thing|Action|Career: eg: selling ebooks, copywriting, web design]. 
+1. [Reason1] 
+2. [Reason2] 
+3. [Reason3]. 
+Sound interesting? Click 👇. [Link]""","##Top 3 reasons I love about [Thing|Action|Career: eg: selling ebooks, copywriting, web design]. 
+1. [Reason1] 
+2. [Reason2] 
+3. [Reason3]. 
+Sound interesting? Click 👇. [Link]""
+
+",miscellaneous
+everTriedSamePlace,"If you've ever tried to [result they've tried to get], but ended up in the same place... This week’s [content] is your fix: [Link]","##If you've ever tried to [result they've tried to get], but ended up in the same place... This week’s [content] is your fix: [Link]
+
+",miscellaneous
+noSuccessThenWorked,I've/We’ve tried to [Result you can promise] without any kind of success. Until I/we found a way to make it work. Here's how to get faster results: [Link],"##I've/We’ve tried to [Result you can promise] without any kind of success. Until I/we found a way to make it work. Here's how to get faster results: [Link]
+
+",miscellaneous
+struggledWithPain,If you've struggled with [Pain] and you're looking for a simple way to [Main promise of your content]... Click here. [Link],"##If you've struggled with [Pain] and you're looking for a simple way to [Main promise of your content]... Click here. [Link]
+
+",painPoints
+stopFeelingGetResult,"Stop feeling [Pain, ex: invisible online]. 
+Get [desired result 1].
+[desired result 2], 
+[desired result 3]. 
+[ContentTitle] 
+- [Feature 1] 
+- [Feature 2] 
+- [Feature 3]. 
+Tune in to our latest [content eg. youtube video, podcast, newsletter] now.","##Stop feeling [Pain, ex: invisible online]. 
+Get [desired result 1].
+[desired result 2], 
+[desired result 3]. 
+[ContentTitle] 
+- [Feature 1] 
+- [Feature 2] 
+- [Feature 3]. 
+Tune in to our latest [content eg. youtube video, podcast, newsletter] now.
+
+",painPoints
+fourStepsDesiredOutcome,"The 4 steps to [Desired outcome]. 
+- [Step1]
+- [Step2]
+- [Step3]
+- [Step4]
+Now learn how to follow these steps 👇. [Link]","##The 4 steps to [Desired outcome]. 
+- [Step1]
+- [Step2]
+- [Step3]
+- [Step4]
+Now learn how to follow these steps 👇. [Link]
+
+",miscellaneous
+workingOnDesiredResult,"If you're working on [what are they working on?], and you want to [desired result], get my latest newsletter to save you time and headache.","##If you're working on [what are they working on?], and you want to [desired result], get my latest newsletter to save you time and headache.
+
+",miscellaneous
+roadmapFromTo,"[ContentTopic] is the roadmap to go from [Current situation] to [Desired outcome]. If you want to gain clarity about [Desired outcome], then click the link 👇.[Link]","##[ContentTopic] is the roadmap to go from [Current situation] to [Desired outcome]. If you want to gain clarity about [Desired outcome], then click the link 👇.[Link]
+
+",miscellaneous
+learningSkillObstacle,"Learning [skill] is how you take control of [What are you taking control of?]. The only obstacle is [obstacle]. Overcome this, you cannot be stopped.","##Learning [skill] is how you take control of [What are you taking control of?]. The only obstacle is [obstacle]. Overcome this, you cannot be stopped.
+
+",miscellaneous
+threeThingsDesiredResult,"You need [Number of things] things to [desired result]. The first is [thing 1]. The second is [thing 2]. And the third [thing 3]. If you have those, then [desired outcome] is fully attainable.","##You need [Number of things] things to [desired result]. The first is [thing 1]. The second is [thing 2]. And the third [thing 3]. If you have those, then [desired outcome] is fully attainable.
+
+",miscellaneous
+ignoreToGetDesiredResult,"To achieve [desired result], you must ignore B and C. To Ignore B and C, you must learn [thing that provides desired result]. Those who have learned D know what I'm talking about.","##To achieve [desired result], you must ignore B and C. To Ignore B and C, you must learn [thing that provides desired result]. Those who have learned D know what I'm talking about.
+
+",miscellaneous
+youAreResponsibleFor,"As a [career/identity], you are responsible for: [Responsibility 1] [Responsibility 2] [Responsibility 3]. Anyone can learn these things. Follow the footsteps of those who’ve been there before you.","##As a [career/identity], you are responsible for: [Responsibility 1] [Responsibility 2] [Responsibility 3]. Anyone can learn these things. Follow the footsteps of those who’ve been there before you.
+
+",miscellaneous
+cruelReality,"The cruel reality of [obstacle] is that it's on purpose for many. They'll never break out of the self-limiting mindset and belief. Tell this person to learn [skill, idea], and they’ll tell you why it never works.","##The cruel reality of [obstacle] is that it's on purpose for many. They'll never break out of the self-limiting mindset and belief. Tell this person to learn [skill, idea], and they’ll tell you why it never works.
+
+",miscellaneous
+conceptIsEssential,"[Idea, concept] is essential for [what is it essential for]. If you lack [idea, concept] skills, you’ll never get ahead in [field]. Address this knowledge gap. Start here.","##[Idea, concept] is essential for [what is it essential for]. If you lack [idea, concept] skills, you’ll never get ahead in [field]. Address this knowledge gap. Start here.
+
+",miscellaneous
+notSoDifferent,"[Idea, concept 1] and [Idea, concept 2] are not so different from each other. The principles are similar. If you learn [Idea, concept 1], you can easily learn [Idea, concept 2]. Learn [Idea, concept 1] here.""","##[Idea, concept 1] and [Idea, concept 2] are not so different from each other. The principles are similar. If you learn [Idea, concept 1], you can easily learn [Idea, concept 2]. Learn [Idea, concept 1] here.""
+
+",miscellaneous
+simplerWay,"[ContentTopic] is a simpler way to: - [Benefit 1, eg: Never run out of ideas] - [Benefit 2] - [Benefit 3]. Learn more 👇. [LINK]","##[ContentTopic] is a simpler way to: - [Benefit 1, eg: Never run out of ideas] - [Benefit 2] - [Benefit 3]. Learn more 👇. [LINK]
+
+",miscellaneous
+desiredOutcomeTimeframeObstacle,"How I [Desired Outcome] in just [Timeframe] without [Obstacle]. If this sounds interesting, read this week's newsletter. [LINK]","##How I [Desired Outcome] in just [Timeframe] without [Obstacle]. If this sounds interesting, read this week's newsletter. [LINK]
+
+",miscellaneous
+contentTopicDesiredOutcome,"Use [ContentTopic] to: - [Desired Outcome, eg: create a website in 24 hours] - [Desired Outcome] - [Desired Outcome]. Get it today. [Link]","##Use [ContentTopic] to: - [Desired Outcome, eg: create a website in 24 hours] - [Desired Outcome] - [Desired Outcome]. Get it today. [Link]
+
+",miscellaneous
+bestTime,"The best time to [Result your product can get, eg: write an ebook] was [number] months ago. The second best time is today. Read my latest newsletter for the ultimate “how-to” guide and [get desired result]. I lay out everything you need to know to start right away. [Link]","##The best time to [Result your product can get, eg: write an ebook] was [number] months ago. The second best time is today. Read my latest newsletter for the ultimate “how-to” guide and [get desired result]. I lay out everything you need to know to start right away. [Link]
+
+",miscellaneous
+LessonsOnThing,"Lessons on thing I did today:
+[DidThisThingToday]
+[ShortContext]
+Here are [X] lessons I learned in [X Time]
+[Lesson 1]
+[Lesson 2]
+[Lesson 3]
+[Lesson 4]
+[Lesson 5]
+Hope this helps. ","##Lessons on thing I did today:
+[DidThisThingToday]
+[ShortContext]
+Here are [X] lessons I learned in [X Time]
+[Lesson 1]
+[Lesson 2]
+[Lesson 3]
+[Lesson 4]
+[Lesson 5]
+Hope this helps. 
+
+",eduContent
+youDontNeedThing,"You don't need [ThisThing]
+Go find:
+[OtherThing1]
+[OtherThing2]
+[OtherThing3]
+[StatementAboutWhy]
+[ConclusionStatement]
+","##You don't need [ThisThing]
+Go find:
+[OtherThing1]
+[OtherThing2]
+[OtherThing3]
+[StatementAboutWhy]
+[ConclusionStatement]
+
+
+",eduContent
+How to Do X: Old Way/New Way,"How to do [ThisThing]
+Old way:
+[oldWay1]
+[oldWay2]
+[oldWay3]
+New way:
+[newWay1]
+[newWay2]
+[newWay3]
+[New way] > [Old way]","##How to do [ThisThing]
+Old way:
+[oldWay1]
+[oldWay2]
+[oldWay3]
+New way:
+[newWay1]
+[newWay2]
+[newWay3]
+[New way] > [Old way]
+
+",eduContent
+90%,    90% of [Outcome] is really just: [Simple Habit #1]. [Simple Habit #2]. [Simple Habit #3]. The little stuff that makes all the difference.,"##    90% of [Outcome] is really just: [Simple Habit #1]. [Simple Habit #2]. [Simple Habit #3]. The little stuff that makes all the difference.
+
+",leanWriting
+amateursVsPros,    How amateurs [Topic] [Amateur Approach] [Amateur Approach] [Amateur Approach] How the pros do it [Pro Approach] [Pro Approach] [Pro Approach],"##    How amateurs [Topic] [Amateur Approach] [Amateur Approach] [Amateur Approach] How the pros do it [Pro Approach] [Pro Approach] [Pro Approach]
+
+",leanWriting
+anotherBenefit,    Another benefit of [Topic]: [Benefit][Reason Why],"##    Another benefit of [Topic]: [Benefit][Reason Why]
+
+",leanWriting
+anotherFramework,    Another great framework for solving [Topic Problem] quickly: [Step #1] [Step #2] [Step #3] [Step #4] Works every time.,"##    Another great framework for solving [Topic Problem] quickly: [Step #1] [Step #2] [Step #3] [Step #4] Works every time.
+
+",leanWriting
+anotherTopic,    Another good [Topic] tip: [Proven Tip]. Here’s why: [Reason]. Works every time.,"##    Another good [Topic] tip: [Proven Tip]. Here’s why: [Reason]. Works every time.
+
+",leanWriting
+threeResources,"    If you’re interested in [Topic], here’s another helpful resource I recommend checking out: [Resource]. [Reason #1] [Reason #2] [Reason #3] Bookmark it.","##    If you’re interested in [Topic], here’s another helpful resource I recommend checking out: [Resource]. [Reason #1] [Reason #2] [Reason #3] Bookmark it.
+
+",leanWriting
+anotherTopicMistakes,    Another [Topic] mistake I used to make: [Proven Mistake]. And it took me a long time to learn the reason why was because [Why].,"##    Another [Topic] mistake I used to make: [Proven Mistake]. And it took me a long time to learn the reason why was because [Why].
+
+",leanWriting
+anotherThingPeople,    Another thing I’ve realized about people who [Topic Well]: [Realization] [Reason Why],"##    Another thing I’ve realized about people who [Topic Well]: [Realization] [Reason Why]
+
+",leanWriting
+biggestMistakesPeople,    The [X] biggest mistakes [Topic People] make: [Mistake #1] [Mistake #2] [Mistake #3] Let’s fix them: [Easy Solution #1] [Easy Solution #2] [Easy Solution #3],"##    The [X] biggest mistakes [Topic People] make: [Mistake #1] [Mistake #2] [Mistake #3] Let’s fix them: [Easy Solution #1] [Easy Solution #2] [Easy Solution #3]
+
+",leanWriting
+goodTopicGoodTrait,    Good [Topic] [Good Trait] [Good Trait] [Good Trait] Bad [Topic] [Bad Trait] [Bad Trait] [Bad Trait],"##    Good [Topic] [Good Trait] [Good Trait] [Good Trait] Bad [Topic] [Bad Trait] [Bad Trait] [Bad Trait]
+
+",leanWriting
+badApproachVsGoodApproach,    How I used to [Topic]: [Bad Approach] [Bad Approach] [Bad Approach] How I do now: [Good Approach] [Good Approach] [Good Approach],"##    How I used to [Topic]: [Bad Approach] [Bad Approach] [Bad Approach] How I do now: [Good Approach] [Good Approach] [Good Approach]
+
+",leanWriting
+fourOutcomes,"    If I had never started [Topic], I wouldn’t have: [Outcome #1] [Outcome #2] [Outcome #3] [Outcome #4] Start today—you won’t regret it.","##    If I had never started [Topic], I wouldn’t have: [Outcome #1] [Outcome #2] [Outcome #3] [Outcome #4] Start today—you won’t regret it.
+
+",leanWriting
+bestAdviceConvinced,    I’m convinced [Topic Advice] is the best advice to live by. [Reason #1] [Reason #2] [Reason #3],"##    I’m convinced [Topic Advice] is the best advice to live by. [Reason #1] [Reason #2] [Reason #3]
+
+",leanWriting
+quickHack,    Quick hack to [Topic Outcome]: [Quick Hack][Reason Why] Works every time.,"##    Quick hack to [Topic Outcome]: [Quick Hack][Reason Why] Works every time.
+
+",leanWriting
+reminderToSelf,    Reminder to self about [Topic]: [Lesson][Reason Why],"##    Reminder to self about [Topic]: [Lesson][Reason Why]
+
+",leanWriting
+stopShortTerm,"    Stop trying to: [Short-Term Outcome] [Short-Term Outcome] [Short-Term Outcome]. Instead, just focus on [Action Step]. The rest will take care of itself.","##    Stop trying to: [Short-Term Outcome] [Short-Term Outcome] [Short-Term Outcome]. Instead, just focus on [Action Step]. The rest will take care of itself.
+
+",leanWriting
+wrongAction,"    Most [Topic People] focus on [Wrong Action]. This gets them nowhere. Instead, the trick is to focus 100% of your attention on [Right Action]: [Step #1] [Step #2] [Step #3].","##    Most [Topic People] focus on [Wrong Action]. This gets them nowhere. Instead, the trick is to focus 100% of your attention on [Right Action]: [Step #1] [Step #2] [Step #3].
+
+",leanWriting
+badHabits,    These things ruin you as a [Topic Person]: [Bad Habit #1] [Bad Habit #2] [Bad Habit #3] [Bad Habit #4] Avoid as many of these as possible.,"##    These things ruin you as a [Topic Person]: [Bad Habit #1] [Bad Habit #2] [Bad Habit #3] [Bad Habit #4] Avoid as many of these as possible.
+
+",leanWriting
+timelessFormula,"    Timeless formula for [Topic] success: Do [Step #1] Then do [Step #2] Then [Step #3] After, [Step #4] These 4 steps have worked for generations. Good chance they’ll work for you too.","##    Timeless formula for [Topic] success: Do [Step #1] Then do [Step #2] Then [Step #3] After, [Step #4] These 4 steps have worked for generations. Good chance they’ll work for you too.
+
+",leanWriting
+topicLikeActivity,"    [Topic] is a lot like [Life Activity]: [Witty Observation] [Witty Observation] [Witty Observation] Probably why doing [Topic] teaches you so much about yourself, too.","##    [Topic] is a lot like [Life Activity]: [Witty Observation] [Witty Observation] [Witty Observation] Probably why doing [Topic] teaches you so much about yourself, too.
+
+",leanWriting
+fourBenefits,    Benefits of [Topic]: [Benefit #1] [Benefit #2] [Benefit #3] [Benefit #4] Which is why [Topic] is so valuable.,"##    Benefits of [Topic]: [Benefit #1] [Benefit #2] [Benefit #3] [Benefit #4] Which is why [Topic] is so valuable.
+
+",leanWriting
+xChallenges," [X] challenges you will experience when trying to [Topic]: [Challenge #1] [Challenge #2] [Challenge #3] But, overcome these and you win.","## [X] challenges you will experience when trying to [Topic]: [Challenge #1] [Challenge #2] [Challenge #3] But, overcome these and you win.
+
+",leanWriting
+bestCompanies,The best [Topic] companies of all time: [Company #1] [Company #2] [Company #3] Everyone should study their origin stories.,"##The best [Topic] companies of all time: [Company #1] [Company #2] [Company #3] Everyone should study their origin stories.
+
+",leanWriting
+bestExamples,The best examples of [Topic] I’ve ever seen: [Example #1] [Example #2] [Example #3] [Example #4] What others would you add?,"##The best examples of [Topic] I’ve ever seen: [Example #1] [Example #2] [Example #3] [Example #4] What others would you add?
+
+",leanWriting
+favoriteFramework,My favorite [Topic] framework: [Step #1] [Step #2] [Step #3] [Step #4] [Step #5] Works every time.,"##My favorite [Topic] framework: [Step #1] [Step #2] [Step #3] [Step #4] [Step #5] Works every time.
+
+",leanWriting
+topicGoals,[Topic] goals you should strive for: [Goal #1] [Goal #2] [Goal #3] [Goal #4] Achieving these puts you in the top 1%.,"##[Topic] goals you should strive for: [Goal #1] [Goal #2] [Goal #3] [Goal #4] Achieving these puts you in the top 1%.
+
+",leanWriting
+xHabits,X habits the best [Topic] live by: [Habit #1] [Habit #2] [Habit #3] [Habit #4] Greatness is a daily choice.,"##X habits the best [Topic] live by: [Habit #1] [Habit #2] [Habit #3] [Habit #4] Greatness is a daily choice.
+
+",leanWriting
+someInsights,"Some insights on [Topic]: [Insight #1] [Insight #2] [Insight #3] Do [Topic] long enough, and you’ll learn these to be true.","##Some insights on [Topic]: [Insight #1] [Insight #2] [Insight #3] Do [Topic] long enough, and you’ll learn these to be true.
+
+",leanWriting
+unforgettableLessons,Unforgettable lessons after doing [Topic] for [X] years: [Lesson #1] [Lesson #2] [Lesson #3] [Lesson #4] Learning these changed my life.,"##Unforgettable lessons after doing [Topic] for [X] years: [Lesson #1] [Lesson #2] [Lesson #3] [Lesson #4] Learning these changed my life.
+
+",leanWriting
+avoidBeginnerMistakes,Avoid these mistakes as a beginner [Topic]: [Mistake #1] [Mistake #2] [Mistake #3] [Mistake #4] You’ll save yourself so many headaches.,"##Avoid these mistakes as a beginner [Topic]: [Mistake #1] [Mistake #2] [Mistake #3] [Mistake #4] You’ll save yourself so many headaches.
+
+",leanWriting
+xQuestionsStruggles, [X] questions every [Topic] struggles to answer: [Question #1] [Question #2] [Question #3] [Question #4],"## [X] questions every [Topic] struggles to answer: [Question #1] [Question #2] [Question #3] [Question #4]
+
+",leanWriting
+biggestRealizations,Biggest realizations I’ve had on [Topic]: [Realization #1] [Realization #2] [Realization #3],"##Biggest realizations I’ve had on [Topic]: [Realization #1] [Realization #2] [Realization #3]
+
+",leanWriting
+xReasonsToStartTopic,Here are [X] reasons why anyone struggling with [Problem] should start [Topic]: [Reason #1] [Reason #2] [Reason #3] [Reason #4] I firmly believe this.,"##Here are [X] reasons why anyone struggling with [Problem] should start [Topic]: [Reason #1] [Reason #2] [Reason #3] [Reason #4] I firmly believe this.
+
+",leanWriting
+perfectTopicRoutine,"The perfect [Topic] routine: [Action #1] [Action #2] [Action #3] [Action #4] [Action #5] Do these [X] things every day, and you’ll be wildly successful.","##The perfect [Topic] routine: [Action #1] [Action #2] [Action #3] [Action #4] [Action #5] Do these [X] things every day, and you’ll be wildly successful.
+
+",leanWriting
+topicSecrets,[Topic] secrets most people don’t know… [Secret #1] [Secret #2] [Secret #3] Shhh… don’t tell anyone.,"##[Topic] secrets most people don’t know… [Secret #1] [Secret #2] [Secret #3] Shhh… don’t tell anyone.
+
+",leanWriting
+successWithTopic,"If you want to be a successful [Topic], these are the skills you need: [Skill #1] [Skill #2] [Skill #3] [Skill #4] Ignore everything else. Just focus on building these.","##If you want to be a successful [Topic], these are the skills you need: [Skill #1] [Skill #2] [Skill #3] [Skill #4] Ignore everything else. Just focus on building these.
+
+",leanWriting
+fiveStepsSuccess,"These are the steps for becoming a successful [Topic]: [Step #1] [Step #2] [Step #3] [Step #4] [Step #5] Follow these, and you’ll achieve [Goal].","##These are the steps for becoming a successful [Topic]: [Step #1] [Step #2] [Step #3] [Step #4] [Step #5] Follow these, and you’ll achieve [Goal].
+
+",leanWriting
+masterTopic,Want to master [Topic]? Use these [X] templates: [Template #1] [Template #2] [Template #3] [Template #4] [Template #5] They work every time.,"##Want to master [Topic]? Use these [X] templates: [Template #1] [Template #2] [Template #3] [Template #4] [Template #5] They work every time.
+
+",leanWriting
+simpleTips,"Simple tips I would give anyone who wants to start [Topic]: [Tip #1] [Tip #2] [Tip #3] [Tip #4] [Tip #5] Yes, it’s this easy to get started.","##Simple tips I would give anyone who wants to start [Topic]: [Tip #1] [Tip #2] [Tip #3] [Tip #4] [Tip #5] Yes, it’s this easy to get started.
+
+",leanWriting
+bestTraits,These are the traits of the best [Topic]: [Trait #1] [Trait #2] [Trait #3] [Trait #4] [Trait #5] Look around—you’ll see all the pros have these.,"##These are the traits of the best [Topic]: [Trait #1] [Trait #2] [Trait #3] [Trait #4] [Trait #5] Look around—you’ll see all the pros have these.
+
+",leanWriting
+TS_ABDCEStorytellingFramework,"Complete the ABDCE framework:
+• Action
+• Background
+• Development
+• Climax
+• Ending
+[[A]When I was (age), I (experienced something).]
+[[B] In this next section, explain what happened. Where were you? Who were you with? What happened, and why did it matter so much to you at the time? Who else saw? What did you feel? What did you think was going to happen, and what happened instead?]
+[[B] In one single bolded sentence, share the feeling you felt.]
+[[D] Now, expand on that feeling. Develop it. How did the experience play out in the rest of your life? Did you carry it with you for a long time? How did it impact other things—like say, making friends, forming relationships, trusting other people, or your ability to pursue your dreams? Did you think about it often? What was the image, or the phrase, or the specific moment that came up for you time and time again? How did your interpretation of the event change as time went on?]
+[[D] When did things start to change? What caused the change? How did you start growing in a different direction? What was the moment? Similar to [B], what happened? Where were you? Who were you with? What happened, and why did it matter so much to you at that time? Who else saw? What did you feel? What did you think was going to happen, and what happened instead?]
+[[C] In one single bolded sentence, share the final moment of change.]
+[[C] When was ""the transformation complete?"" What did you and your life look like before, and what did you and your life look like after?]
+[[E] Finally, explain to the reader why this story matters. Why did you want to share it? What's the final morale you want the reader to be left with? What should the reader walk away thinking about differently? How can they learn from your story and apply those learnings to their own life?]
+[[E] If you could summarize this story in one single sentence for the reader to end with, what would it be?]","##Complete the ABDCE framework:
+• Action
+• Background
+• Development
+• Climax
+• Ending
+[[A]When I was (age), I (experienced something).]
+[[B] In this next section, explain what happened. Where were you? Who were you with? What happened, and why did it matter so much to you at the time? Who else saw? What did you feel? What did you think was going to happen, and what happened instead?]
+[[B] In one single bolded sentence, share the feeling you felt.]
+[[D] Now, expand on that feeling. Develop it. How did the experience play out in the rest of your life? Did you carry it with you for a long time? How did it impact other things—like say, making friends, forming relationships, trusting other people, or your ability to pursue your dreams? Did you think about it often? What was the image, or the phrase, or the specific moment that came up for you time and time again? How did your interpretation of the event change as time went on?]
+[[D] When did things start to change? What caused the change? How did you start growing in a different direction? What was the moment? Similar to [B], what happened? Where were you? Who were you with? What happened, and why did it matter so much to you at that time? Who else saw? What did you feel? What did you think was going to happen, and what happened instead?]
+[[C] In one single bolded sentence, share the final moment of change.]
+[[C] When was ""the transformation complete?"" What did you and your life look like before, and what did you and your life look like after?]
+[[E] Finally, explain to the reader why this story matters. Why did you want to share it? What's the final morale you want the reader to be left with? What should the reader walk away thinking about differently? How can they learn from your story and apply those learnings to their own life?]
+[[E] If you could summarize this story in one single sentence for the reader to end with, what would it be?]
+
+",longform
+TS_careerMistakes,"{X} Profound Career Mistakes Everyone (From Intern To Executive) Should Avoid In Their Career
+A few [Time] ago, I asked [X] [Niche] leaders one simple question:
+“What early career mistake will you never make again?”
+What I ended up walking away with was a messy notepad full of notes, a completely new way of seeing the world, and [X] profound mistakes everyone (from intern to executive) should avoid in their career.
+Let’s dive in:
+Mistake #1: [Mistake1]
+Too often, [Role] choose to [WrongDecision].
+They [WhyDecision]. They think [Logic]. Only to end up [BadOutcome].
+Instead, [Role] should be focused on [RightDecision].
+This is what ends up leading to [PositiveOutcome], [PositiveOutcome], and [PositiveOutcome].
+Mistake #2: [Mistake2]
+A good [Role] can [GoodOutcome].
+A bad [Role] can [BadOutcome].
+But a legendary [Role] can [GiantOutcome].
+Don’t get it confused: a [GoodOutcome] is good, but it’s far from what makes the most difference.
+Mistake #3: [Mistake3]
+Until you’ve [Milestone], don’t take your eye off the ball.
+[”RelevantQuote”].
+To this day, I hang this quote up on my wall because it reminds me [Takeaway].
+Mistake #4: [Mistake4]
+Traditional wisdom says [TraditionalWisdom].
+But that’s only true if you don’t do two things correctly:
+[RightDecision1]
+[RightDecision2]
+Then, [TraditionalWisdom] works great.
+Mistake #5: [Mistake5]
+We all think we can [Decision].
+We all think we have unlimited [Resource].
+We all think we are immune to [Disaster].
+But the truth is, we’re not.
+Which is why it’s much better to operate from first principles, and [RightDecision] from the very beginning.","##{X} Profound Career Mistakes Everyone (From Intern To Executive) Should Avoid In Their Career
+A few [Time] ago, I asked [X] [Niche] leaders one simple question:
+“What early career mistake will you never make again?”
+What I ended up walking away with was a messy notepad full of notes, a completely new way of seeing the world, and [X] profound mistakes everyone (from intern to executive) should avoid in their career.
+Let’s dive in:
+Mistake #1: [Mistake1]
+Too often, [Role] choose to [WrongDecision].
+They [WhyDecision]. They think [Logic]. Only to end up [BadOutcome].
+Instead, [Role] should be focused on [RightDecision].
+This is what ends up leading to [PositiveOutcome], [PositiveOutcome], and [PositiveOutcome].
+Mistake #2: [Mistake2]
+A good [Role] can [GoodOutcome].
+A bad [Role] can [BadOutcome].
+But a legendary [Role] can [GiantOutcome].
+Don’t get it confused: a [GoodOutcome] is good, but it’s far from what makes the most difference.
+Mistake #3: [Mistake3]
+Until you’ve [Milestone], don’t take your eye off the ball.
+[”RelevantQuote”].
+To this day, I hang this quote up on my wall because it reminds me [Takeaway].
+Mistake #4: [Mistake4]
+Traditional wisdom says [TraditionalWisdom].
+But that’s only true if you don’t do two things correctly:
+[RightDecision1]
+[RightDecision2]
+Then, [TraditionalWisdom] works great.
+Mistake #5: [Mistake5]
+We all think we can [Decision].
+We all think we have unlimited [Resource].
+We all think we are immune to [Disaster].
+But the truth is, we’re not.
+Which is why it’s much better to operate from first principles, and [RightDecision] from the very beginning.
+
+",longform
+TS_categoryPOV,"Complete this template:
+[In your chosen category, share one commonly held belief most people think is true (but is actually false/wrong/outdated/misunderstood/etc.).]
+[Next, describe the problem in detail. Explain to the reader why this commonly held belief is so prevalent in society, or how it became a commonly held belief in the first place. And finally, tell the reader what this commonly held belief has resulted in.]
+[List off a few examples:
+Example #1
+Example #2
+Example #3]
+[Now, in this subhead, tell the reader the reason this belief is flawed.]
+[And in this first sentence, give the reader a concrete reason.]
+[In this paragraph, expand on your argument. Share a personal story, or a study or stat that gives credibility and context to your perspective. And finally, tell the reader what new and different result they can expect if and when they abandon this old, commonly held belief and adopt this new perspective you're providing instead.]
+[Now, tell them how: In this subhead, tell them how to shift their mindset from ""old"" to ""new.""]
+[This first sentence is an actionable step they can take, right away.]
+[Next, explain what they can expect as a result from shifting their mindset. What new advantages or benefits will they experience in their own life? Be specific, and paint a clear picture of the future.]
+[Finally, in this subhead, tell the reader why the ""old"" is going away for good.]
+[Bring them back to the beginning of the article, and drive home your point.]
+[Give a few quick reasons why the ""old"" is on its way out, and this ""new"" way of thinking is the future. And to send them off, give them one final reminder/example of what this new future will look like—and why it will be so valuable for them to be part of it.]","##Complete this template:
+[In your chosen category, share one commonly held belief most people think is true (but is actually false/wrong/outdated/misunderstood/etc.).]
+[Next, describe the problem in detail. Explain to the reader why this commonly held belief is so prevalent in society, or how it became a commonly held belief in the first place. And finally, tell the reader what this commonly held belief has resulted in.]
+[List off a few examples:
+Example #1
+Example #2
+Example #3]
+[Now, in this subhead, tell the reader the reason this belief is flawed.]
+[And in this first sentence, give the reader a concrete reason.]
+[In this paragraph, expand on your argument. Share a personal story, or a study or stat that gives credibility and context to your perspective. And finally, tell the reader what new and different result they can expect if and when they abandon this old, commonly held belief and adopt this new perspective you're providing instead.]
+[Now, tell them how: In this subhead, tell them how to shift their mindset from ""old"" to ""new.""]
+[This first sentence is an actionable step they can take, right away.]
+[Next, explain what they can expect as a result from shifting their mindset. What new advantages or benefits will they experience in their own life? Be specific, and paint a clear picture of the future.]
+[Finally, in this subhead, tell the reader why the ""old"" is going away for good.]
+[Bring them back to the beginning of the article, and drive home your point.]
+[Give a few quick reasons why the ""old"" is on its way out, and this ""new"" way of thinking is the future. And to send them off, give them one final reminder/example of what this new future will look like—and why it will be so valuable for them to be part of it.]
+
+",longform
+TS_dontOvercomplicateIt,"Most people overcomplicate [Topic].
+Especially [Specific Example].
+So, here's [Example 101].
+[Step 1]
+[Step 2]
+[Step 3]
+Once you get there, you can then focus on:
+[Step 4]
+[Step 5]
+[Step 6]
+The key to success?
+With every action you take, figure out which one of these steps you are stuck at.
+And then make a plan to progress to the next level.","##Most people overcomplicate [Topic].
+Especially [Specific Example].
+So, here's [Example 101].
+[Step 1]
+[Step 2]
+[Step 3]
+Once you get there, you can then focus on:
+[Step 4]
+[Step 5]
+[Step 6]
+The key to success?
+With every action you take, figure out which one of these steps you are stuck at.
+And then make a plan to progress to the next level.
+
+",longform
+TS_dontsDos,"[In this first sentence, tell the reader what they shouldn't do if they want to achieve X.]
+[Why not? Explain to the reader why they shouldn't do this thing if they want to achieve X. What will happen if they make this mistake? Get specific. What is going to happen to them, their life, their goals and dreams and aspirations, their family and sense of freedom? How bad can things get?]
+[Now, quickly make a bulleted list of what ELSE might happen if they make this mistake.
+• Example
+• Example
+• Example
+• Example]
+[Finally, in one bolded sentence, tell the reader how you made this very same mistake.]
+[Now, show them. Show the reader how there was once a time when you didn't know what you are now explaining, and how you made this mistake. And using the above examples, show the reader how this mistake played out in your life. Get specific. What happened? What was the result of this mistake? What did you think was going to happen, and what happened instead?]
+[Then, tell the reader, ""Which is why I want to share this with you.""]
+[In one bolded sentence, tell the reader what they should do instead.]
+[Tell the reader, if you could go back in time, what you would do differently. What should the reader do instead? You've established all that can go wrong when you make this previous decision, now show the reader what life can look like on the other side—when you make the right decision.]
+[List off a few specific examples of how good life can be, and what can be unlocked as a result of this decision.]
+[• Example
+• Example
+• Example
+• Example]
+[Finally, tell the reader why it matters so much to you for them to listen and learn from your mistakes. What do you want for the reader? Why is this so important?]","##[In this first sentence, tell the reader what they shouldn't do if they want to achieve X.]
+[Why not? Explain to the reader why they shouldn't do this thing if they want to achieve X. What will happen if they make this mistake? Get specific. What is going to happen to them, their life, their goals and dreams and aspirations, their family and sense of freedom? How bad can things get?]
+[Now, quickly make a bulleted list of what ELSE might happen if they make this mistake.
+• Example
+• Example
+• Example
+• Example]
+[Finally, in one bolded sentence, tell the reader how you made this very same mistake.]
+[Now, show them. Show the reader how there was once a time when you didn't know what you are now explaining, and how you made this mistake. And using the above examples, show the reader how this mistake played out in your life. Get specific. What happened? What was the result of this mistake? What did you think was going to happen, and what happened instead?]
+[Then, tell the reader, ""Which is why I want to share this with you.""]
+[In one bolded sentence, tell the reader what they should do instead.]
+[Tell the reader, if you could go back in time, what you would do differently. What should the reader do instead? You've established all that can go wrong when you make this previous decision, now show the reader what life can look like on the other side—when you make the right decision.]
+[List off a few specific examples of how good life can be, and what can be unlocked as a result of this decision.]
+[• Example
+• Example
+• Example
+• Example]
+[Finally, tell the reader why it matters so much to you for them to listen and learn from your mistakes. What do you want for the reader? Why is this so important?]
+
+",longform
+TS_lifelessons,"{X} Rules To Live A Life Filled With {Outcome1}, {Outcome2}, {Outcome3}
+Over the past [X] years, I have:
+[ShockingExperience]
+[OvercomeObstacle]
+[Accomplishment]
+And all of these things have taught me a tremendous amount about what matters in life, and what doesn’t. (Plot twist: a lot of the things I used to care about, I don’t anymore. And things I used to not care very much about are now my top priorities.)
+These are my new [X] rules for life:
+[LifeRule1]
+[ClarifyingStatement]
+[LifeRule2]
+[Description]
+[LifeRule3]
+[ClarifyingStatement]
+[LifeRule4]
+[Description]","##{X} Rules To Live A Life Filled With {Outcome1}, {Outcome2}, {Outcome3}
+Over the past [X] years, I have:
+[ShockingExperience]
+[OvercomeObstacle]
+[Accomplishment]
+And all of these things have taught me a tremendous amount about what matters in life, and what doesn’t. (Plot twist: a lot of the things I used to care about, I don’t anymore. And things I used to not care very much about are now my top priorities.)
+These are my new [X] rules for life:
+[LifeRule1]
+[ClarifyingStatement]
+[LifeRule2]
+[Description]
+[LifeRule3]
+[ClarifyingStatement]
+[LifeRule4]
+[Description]
+
+",longform
+TS_mostPeopleEither,"Most people either:
+[Wrong Decision 1] or [Wrong Decision 2].
+3 questions to ask when trying to [Goal]:
+[Question 1]
+[Question 2]
+[Question 3]
+If the answer is Yes to all 3 of these, it's worth doing.
+Otherwise, it's a shiny object worth avoiding.","##Most people either:
+[Wrong Decision 1] or [Wrong Decision 2].
+3 questions to ask when trying to [Goal]:
+[Question 1]
+[Question 2]
+[Question 3]
+If the answer is Yes to all 3 of these, it's worth doing.
+Otherwise, it's a shiny object worth avoiding.
+
+",longform
+TS_problemSolving,"My go-to method for [Solving Problem]:
+[Single Sentence Answer]
+Here's why that works:
+[Benefit 1]
+[Benefit 2]
+[Benefit 3]
+At first, you'll feel [Friction].
+But then? You'll feel [No Friction].","##My go-to method for [Solving Problem]:
+[Single Sentence Answer]
+Here's why that works:
+[Benefit 1]
+[Benefit 2]
+[Benefit 3]
+At first, you'll feel [Friction].
+But then? You'll feel [No Friction].
+
+",longform
+TS_powerfulTrait,"The most powerful character trait you can develop:
+[Trait]
+Here are 3 things [Trait] breeds:
+[Benefit 1]
+[Benefit 2]
+[Benefit 3]
+No wonder [Philosopher] said [Quote About Trait].","##The most powerful character trait you can develop:
+[Trait]
+Here are 3 things [Trait] breeds:
+[Benefit 1]
+[Benefit 2]
+[Benefit 3]
+No wonder [Philosopher] said [Quote About Trait].
+
+",longform
+TS_viralOpinions,"{X} Controversial Opinions On {Topic} 99% Of The World Agrees With—But I Do Not
+I have been interested in [Topic] for a long time.
+And over the past [NumberOfYears], I have come across a lot of strong opinions about [Topic] that, at first I agreed with, and then the more I learned and educated myself the more I disagreed with. Until eventually, I reached a point where I felt like the only reason these beliefs had become mainstream and commonly accepted was because “a lot of other people” agreed with them too.
+So, I have some controversial opinions I’d like to share on [Topic] after [X] hours immersing myself in the subject:
+[StrongOpinion1]
+I’m not saying [SubtleDistinction].
+I’m just saying [ClarifyingStatement].
+[StrongOpinion2]
+Contrary to popular belief, [ClicheAction] is a myth.
+[FailureExample1]
+[FailureExample2]
+[FailureExample3]
+[ClicheAction] is a fast-track to [UndesirableOutcome].
+[StrongOpinion3]
+“Most people” do what “most people” do.
+Which leads to…
+[NegativeStat1]
+[NegativeStat2]
+[NegativeStat3]
+Clearly what “most people do” doesn’t work.
+So do something else.
+[StrongOpinion4]
+99% of the time, this is a giant mistake.
+Instead, [Name] has a great framework for achieving [Outcome] without falling into [Trap].
+[Step1]
+[Step2]
+[Step3]
+[StrongOpinion5]
+Pursuing [Outcome] is a silly goal.
+Because [UnconventionalReason].
+[DifferentOutcome] is a better pursuit in life.
+[Benefit1]
+[Benefit2]
+[Benefit3]","##{X} Controversial Opinions On {Topic} 99% Of The World Agrees With—But I Do Not
+I have been interested in [Topic] for a long time.
+And over the past [NumberOfYears], I have come across a lot of strong opinions about [Topic] that, at first I agreed with, and then the more I learned and educated myself the more I disagreed with. Until eventually, I reached a point where I felt like the only reason these beliefs had become mainstream and commonly accepted was because “a lot of other people” agreed with them too.
+So, I have some controversial opinions I’d like to share on [Topic] after [X] hours immersing myself in the subject:
+[StrongOpinion1]
+I’m not saying [SubtleDistinction].
+I’m just saying [ClarifyingStatement].
+[StrongOpinion2]
+Contrary to popular belief, [ClicheAction] is a myth.
+[FailureExample1]
+[FailureExample2]
+[FailureExample3]
+[ClicheAction] is a fast-track to [UndesirableOutcome].
+[StrongOpinion3]
+“Most people” do what “most people” do.
+Which leads to…
+[NegativeStat1]
+[NegativeStat2]
+[NegativeStat3]
+Clearly what “most people do” doesn’t work.
+So do something else.
+[StrongOpinion4]
+99% of the time, this is a giant mistake.
+Instead, [Name] has a great framework for achieving [Outcome] without falling into [Trap].
+[Step1]
+[Step2]
+[Step3]
+[StrongOpinion5]
+Pursuing [Outcome] is a silly goal.
+Because [UnconventionalReason].
+[DifferentOutcome] is a better pursuit in life.
+[Benefit1]
+[Benefit2]
+[Benefit3]
+
+",longform
+TS_reasonsPeopleFail,"I have been doing X for a long time.
+Over the years, I have learned that most people who want to achieve X end up failing because [why]. They think [myth], and never realize Y is what's actually holding them back. To be honest, it took me quite a while to learn this lesson too.
+Here are some of the other reasons I've learned people fail at X:
+Reason #1: People fail because why?
+Reason #2: People fail because why?
+Reason #3: People fail because why?
+Overcoming failure is a crucial part of succeeding, moving forward, and making actionable progress.
+But don't worry: we've all been there.","##I have been doing X for a long time.
+Over the years, I have learned that most people who want to achieve X end up failing because [why]. They think [myth], and never realize Y is what's actually holding them back. To be honest, it took me quite a while to learn this lesson too.
+Here are some of the other reasons I've learned people fail at X:
+Reason #1: People fail because why?
+Reason #2: People fail because why?
+Reason #3: People fail because why?
+Overcoming failure is a crucial part of succeeding, moving forward, and making actionable progress.
+But don't worry: we've all been there.
+
+",longform
+TS_reasonsWhy,"5 Reasons Everyone Should X
+I'm a big believer that X has the power to change your life.
+I've been doing X for Y years, and since that time I have [list 3 positive outcomes]. Doing X has also helped me find my community of people, make new friends, and improve myself in ways I otherwise never would have. I recommend everyone start doing X.
+And I have 5 specific reasons why:
+Reason #1: [What is it, and why do you believe it's so important?]
+Reason #2: [What is it, and why do you believe it's so important?]
+Reason #3: [What is it, and why do you believe it's so important?]
+Reason #4: [What is it, and why do you believe it's so important?]
+Reason #5: [What is it, and why do you believe it's so important?]
+If you start doing X, let me know—I'd love to connect with you (and answer any questions you have getting started!).","##5 Reasons Everyone Should X
+I'm a big believer that X has the power to change your life.
+I've been doing X for Y years, and since that time I have [list 3 positive outcomes]. Doing X has also helped me find my community of people, make new friends, and improve myself in ways I otherwise never would have. I recommend everyone start doing X.
+And I have 5 specific reasons why:
+Reason #1: [What is it, and why do you believe it's so important?]
+Reason #2: [What is it, and why do you believe it's so important?]
+Reason #3: [What is it, and why do you believe it's so important?]
+Reason #4: [What is it, and why do you believe it's so important?]
+Reason #5: [What is it, and why do you believe it's so important?]
+If you start doing X, let me know—I'd love to connect with you (and answer any questions you have getting started!).
+
+",longform
+CreateNativeContent,"Create a native template for a social media post that aligns with [insert brand or campaign name]. The post should be engaging and visually appealing, tailored to the platform (e.g., Instagram, Twitter, Facebook). The design should reflect [insert tone, e.g., professional, fun, educational] and include [insert key elements like logo, brand colors, or specific imagery]. The template should be flexible enough to accommodate text, images, and calls to action while maintaining consistency with the brand's identity.","##Create a native template for a social media post that aligns with [insert brand or campaign name]. The post should be engaging and visually appealing, tailored to the platform (e.g., Instagram, Twitter, Facebook). The design should reflect [insert tone, e.g., professional, fun, educational] and include [insert key elements like logo, brand colors, or specific imagery]. The template should be flexible enough to accommodate text, images, and calls to action while maintaining consistency with the brand's identity.
+
+",eduContent

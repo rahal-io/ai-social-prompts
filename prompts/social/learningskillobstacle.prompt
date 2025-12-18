@@ -1,0 +1,11 @@
+---
+model: googleai/gemini-1.5-pro
+input:
+  schema:
+      skill: string
+      what_are_you_taking_control_of: string
+      obstacle: string
+output:
+  format: text
+---
+Learning {{skill}} is how you take control of {{what_are_you_taking_control_of}}. The only obstacle is {{obstacle}}. Overcome this, you cannot be stopped.
